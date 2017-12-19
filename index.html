@@ -1,3 +1,0 @@
-# Jean-Patrick Francoia
-
-Test
