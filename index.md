@@ -5,7 +5,7 @@ title: "Jean-Patrick Francoia"
 # Education
 
 - 2017--Today: **Postdoctoral research assistant**, *University of Glasgow*, Scotland  
-3D printing, artifical intelligence. Supervisor: Prof. Leroy Cronin
+3D printing, artifical intelligence. Supervisor: Prof. Leroy Cronin ![logo glasgow](images/glasgow.png "")
 
 - 2013--2016: **Ph. D.**, *Université de Montpellier*, France  
 Supramolecular chemistry, biological chemistry, sensors. Supervisor: Dr Laurent Vial
@@ -13,7 +13,7 @@ Supramolecular chemistry, biological chemistry, sensors. Supervisor: Dr Laurent 
 - 2012--2013: **Master in chemistry, with honours**, *Lund University*, Sweden  
 
 
-# Professionnal experience, teachings activities
+# Professionnal experience, teaching activities
 
 - 2013--2016: **Teaching assistant**, *Université de Montpellier*, France  
 Laboratories in organic and general chemistry for undergraduate students *ca. 200 hours*
@@ -39,20 +39,20 @@ Organic synthesis, chemical biology. Supervisor: Prof. Catherine Chan
 
 # Computer skills
 
-- 2010: C2i – "Certificat Informatique et Internet"  
+- 2010: **C2i – "Certificat Informatique et Internet"**  
 Deep knowledge of Python, LaTeX, HTML, CSS, Bash, git. Basis with
 C/C++ and PHP. Daily usage of GNU/Linux. Developer of ChemBrows
 (\httplink{www.chembrows.com}), contributor to scikit-learn and Cura
 
-# Publications
 
+# Publications
 
 9. Digitization of multi-step organic synthesis in reactionware for on demand pharmaceuticals  
 P. J. Kitson, G. Marie, J.-P. Francoia, S. S. Zalesskiy, R. C. Sigerson,
 J. S. Mathieson and L. Cronin *Science*, 2017, *accepted*
 
 8. [Everything you always wanted to know about poly-*L*-lysine dendrigrafts (but were afraid to ask)](http://onlinelibrary.wiley.com/wol1/doi/10.1002/chem.201704147/abstract)  
-J.-P. Francoia and L. Vial, *Chem. Eur. J.*, 2017, **DOI~:**
+J.-P. Francoia and L. Vial, *Chem. Eur. J.*, 2017, **DOI:**
 10.1002/chem.201704147
 
 7. [Digitizing Poly-\textit{L}-Lysine Dendrigrafts: from Experimental Data to Molecular Dynamics Simulations](http://pubs.acs.org/doi/pdf/10.1021/acs.jcim.7b00258)  
@@ -92,20 +92,20 @@ citations: 4
 Slides and posters available [here](https://github.com/JPFrancoia/PostersSlides)
 
 
-6. JMJC 2016 (Journées Méditerranéennes des Jeunes Chercheurs), *Nice*, France  
+6. **JMJC 2016 (Journées Méditerranéennes des Jeunes Chercheurs)**, *Nice*, France  
 Poster presentation
 
-5. MSMLG 2016 (Molecular Sensors and Molecular Logic Gates), *Bath*, United Kingdom  
+5. **MSMLG 2016 (Molecular Sensors and Molecular Logic Gates)**, *Bath*, United Kingdom  
 Oral presentation and poster presentation
 
-4. JMJC 2015 (Journées Méditerranéennes des Jeunes Chercheurs), *Montpellier*, France  
+4. **JMJC 2015 (Journées Méditerranéennes des Jeunes Chercheurs)**, *Montpellier*, France  
 Oral presentation
 
-3. MeMoSim 2015 (Modeling Methods and multiscale Simulations), *Lyon*, France  
+3. **MeMoSim 2015 (Modeling Methods and multiscale Simulations)**, *Lyon*, France  
 Poster presentation
 
-2. Balard Chemistry Conferences 2014, *La Grande Motte*, France  
+2. **Balard Chemistry Conferences 2014**, *La Grande Motte*, France  
 Poster presentation
 
-1. JJC 2014 (Journées des Jeunes Chercheurs), *Montpellier*, France  
+1. **JJC 2014 (Journées des Jeunes Chercheurs)**, *Montpellier*, France  
 Poster presentation
