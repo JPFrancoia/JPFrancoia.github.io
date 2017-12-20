@@ -5,7 +5,7 @@ title: "Jean-Patrick Francoia"
 # Education
 
 - 2017--Today: **Postdoctoral research assistant**, *University of Glasgow*, Scotland  
-3D printing, artifical intelligence. Supervisor: Prof. Leroy Cronin ![logo glasgow](images/glasgow.png "Logo glasgow uni")
+3D printing, artifical intelligence. Supervisor: Prof. Leroy Cronin
 
 - 2013--2016: **Ph. D.**, *Université de Montpellier*, France  
 Supramolecular chemistry, biological chemistry, sensors. Supervisor: Dr Laurent Vial
@@ -55,9 +55,10 @@ J. S. Mathieson and L. Cronin *Science*, 2017, *accepted*
 J.-P. Francoia and L. Vial, *Chem. Eur. J.*, 2017, **DOI:**
 10.1002/chem.201704147
 
-7. [Digitizing Poly-\textit{L}-Lysine Dendrigrafts: from Experimental Data to Molecular Dynamics Simulations](http://pubs.acs.org/doi/pdf/10.1021/acs.jcim.7b00258)  
+7. [Digitizing Poly-*L*-Lysine Dendrigrafts: from Experimental Data to Molecular Dynamics Simulations](http://pubs.acs.org/doi/pdf/10.1021/acs.jcim.7b00258)  
 J.-P. Francoia, J.-C Rossi, G. Monard and L. Vial, *J. Chem. Inf. Model.*,
 2017, **57**, 2173 - citation: 1
+![digitazing](images/digitizing.gif "digitizing")
 
 6. [Chirality Sensing and Discrimination of Lysine Derivatives in Physiological Conditions with a Dyn\[4\]arene](http://pubs.rsc.org/en/content/articlelanding/2016/cc/c6cc07713g)
 L. Vial, M. Dumartin, M. Donnier-Maréchal, F. Perret, J.-P. Francoia,
