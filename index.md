@@ -58,7 +58,9 @@ J.-P. Francoia and L. Vial, *Chem. Eur. J.*, 2017, **DOI:**
 7. [Digitizing Poly-*L*-Lysine Dendrigrafts: from Experimental Data to Molecular Dynamics Simulations](http://pubs.acs.org/doi/pdf/10.1021/acs.jcim.7b00258)  
 J.-P. Francoia, J.-C Rossi, G. Monard and L. Vial, *J. Chem. Inf. Model.*,
 2017, **57**, 2173 - citation: 1  
-![digitizing](images/digitizing.gif "digitizing")
+<p align="center">
+  <img src="images/digitizing.gif">
+</p>
 
 6. [Chirality Sensing and Discrimination of Lysine Derivatives in Physiological Conditions with a Dyn\[4\]arene](http://pubs.rsc.org/en/content/articlelanding/2016/cc/c6cc07713g)
 L. Vial, M. Dumartin, M. Donnier-Maréchal, F. Perret, J.-P. Francoia,
