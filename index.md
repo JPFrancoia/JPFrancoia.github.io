@@ -26,3 +26,20 @@ Organic synthesis, catalysis. Supervisor: Prof. Kenneth Wärnmark
 
 - Apr. 2010--June 2010: **Training period**, *University of Whitewater*, Wisconsin, United States  
 Organic synthesis, chemical biology. Supervisor: Prof. Catherine Chan
+
+
+# Chemistry skills
+
+- **Synthesis:** SPPS, multistep organic synthesis
+- **Analysis:** Fluoresence spectroscopy, HPLC, NMR, ICP-OES
+- **Modeling:** Amber, Gaussian, Spartan, VMD
+- **Microbiology:** Culture of bacteria and model plants
+- **Other:** 3D printing, CAD (Onshape, OpenSCAD), electronics (Arduino)
+
+
+# Computer skills
+
+- 2010: C2i – "Certificat Informatique et Internet"  
+Deep knowledge of Python, LaTeX, HTML, CSS, Bash, git. Basis with
+C/C++ and PHP. Daily usage of GNU/Linux. Developer of ChemBrows
+(\httplink{www.chembrows.com}), contributor to scikit-learn and Cura
