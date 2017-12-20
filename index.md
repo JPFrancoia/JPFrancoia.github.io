@@ -5,7 +5,7 @@ title: "Jean-Patrick Francoia"
 # Education
 
 - 2017--Today: **Postdoctoral research assistant**, *University of Glasgow*, Scotland  
-3D printing, artifical intelligence. Supervisor: Prof. Leroy Cronin
+3D printing adapted for chemistry Supervisor: Prof. Leroy Cronin
 
 - 2013--2016: **Ph. D.**, *Université de Montpellier*, France  
 Supramolecular chemistry, biological chemistry, sensors. Supervisor: Dr Laurent Vial
@@ -40,9 +40,10 @@ Organic synthesis, chemical biology. Supervisor: Prof. Catherine Chan
 # Computer skills
 
 - 2010: **C2i – "Certificat Informatique et Internet"**  
-Deep knowledge of Python, LaTeX, HTML, CSS, Bash, git. Basis with
-C/C++ and PHP. Daily usage of GNU/Linux. Developer of ChemBrows
-(\httplink{www.chembrows.com}), contributor to scikit-learn and Cura
+Deep knowledge of Python, LaTeX, HTML, CSS, Bash, git. Basis with C/C++ and
+PHP. Daily usage of GNU/Linux. Developer of [ChemBrows](www.chembrows.com),
+contributor to [scikit-learn](http://scikit-learn.org/stable/) and
+[Cura](https://ultimaker.com/en/products/ultimaker-cura-software)
 
 
 # Publications (9)
