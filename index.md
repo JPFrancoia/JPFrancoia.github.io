@@ -5,7 +5,7 @@ title: "Jean-Patrick Francoia"
 # Education
 
 - 2017--Today: **Postdoctoral research assistant**, *University of Glasgow*, Scotland  
-3D printing, artifical intelligence. Supervisor: Prof. Leroy Cronin ![logo glasgow](https://github.com/JPFrancoia/JPFrancoia.github.io/blob/master/images/glasgow.png "")
+3D printing, artifical intelligence. Supervisor: Prof. Leroy Cronin ![logo glasgow](images/glasgow.png "Logo glasgow uni")
 
 - 2013--2016: **Ph. D.**, *Université de Montpellier*, France  
 Supramolecular chemistry, biological chemistry, sensors. Supervisor: Dr Laurent Vial
