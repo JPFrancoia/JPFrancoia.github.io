@@ -4,16 +4,20 @@ title: "Jean-Patrick Francoia"
 
 # About me
 
+<p align="justify">
 After obtaining a Master degree in chemistry, I moved to Montpellier (France)
 to become a PhD student. Under the supervision of Dr Laurent Vial, I studied
 the fascinating field of supramolecular chemistry, applied to biosensing. I
 was awarded a PhD in 2016.
+</p>
 
-In 2017, I moved to Glasgow to join the group of [Prof. Lee Cronin](http://www.chem.gla.ac.uk/cronin)
-as a PostDoc. I'm now a part of the "reactionware" team, which aims to
-digitize organic chemistry through, for example, 3D printed reactors. In
-my day to day work, I research new techniques to improve the capabilities
-of these reactors.
+<p align="justify">
+In 2017, I moved to Glasgow to join the group of
+<a href="http://www.chem.gla.ac.uk/cronin">Prof. Lee Cronin</a> as a
+PostDoc. I'm now a part of the "reactionware" team, which aims to digitize
+organic chemistry through, for example, 3D printed reactors. In my day to day
+work, I research new techniques to improve the capabilities of these reactors.
+</p>
 
 # Recent Publications
 
