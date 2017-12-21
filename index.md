@@ -12,11 +12,11 @@ was awarded a PhD in 2016.
 </p>
 
 <p align="justify">
-In 2017, I moved to Glasgow to join the group of Prof. Lee Cronin
-([website](http://www.chem.gla.ac.uk/cronin/ "Cronin lab")) as a PostDoc. I'm now a
-part of the "reactionware" team, which aims to digitize organic chemistry
-through, for example, 3D printed reactors. In my day to day work, I research
-new techniques to improve the capabilities of these reactors.
+In 2017, I moved to Glasgow to join the group of [Prof. Lee
+Cronin](http://www.chem.gla.ac.uk/cronin/ "Cronin lab") as a PostDoc. I'm
+now a part of the "reactionware" team, which aims to digitize organic
+chemistry through, for example, 3D printed reactors. In my day to day work,
+I research new techniques to improve the capabilities of these reactors.
 </p>
 
 # Recent Publications
