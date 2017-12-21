@@ -42,6 +42,10 @@ a {
   }
 }
 
+a.nostyle {
+    all: unset;
+}
+
 .btn {
   display: inline-block;
   margin-bottom: 1rem;
