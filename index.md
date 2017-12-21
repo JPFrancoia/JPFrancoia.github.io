@@ -2,51 +2,7 @@
 title: "Jean-Patrick Francoia"
 ---
 
-# Education
-
-- 2017--Today: **Postdoctoral research assistant**, *University of Glasgow*, Scotland  
-3D printing adapted for chemistry Supervisor: Prof. Leroy Cronin
-
-- 2013--2016: **Ph. D.**, *Université de Montpellier*, France  
-Supramolecular chemistry, biological chemistry, sensors. Supervisor: Dr Laurent Vial
-
-- 2012--2013: **Master in chemistry, with honours**, *Lund University*, Sweden  
-
-
-# Professionnal experience, teaching activities
-
-- 2013--2016: **Teaching assistant**, *Université de Montpellier*, France  
-Laboratories in organic and general chemistry for undergraduate students *ca. 200 hours*
-
-- Nov. 2014: **Direct mentor**, *Université de Montpellier*, France  
-Supervision of a master student (Lena Morin), for 5 weeks
-
-- 2012--2013: **Training period**, *Lund University*, Sweden  
-Organic synthesis, catalysis. Supervisor: Prof. Kenneth Wärnmark
-
-- Apr. 2010--June 2010: **Training period**, *University of Whitewater*, Wisconsin, United States  
-Organic synthesis, chemical biology. Supervisor: Prof. Catherine Chan
-
-
-# Chemistry skills
-
-- **Synthesis:** SPPS, multistep organic synthesis
-- **Analysis:** Fluoresence spectroscopy, HPLC, NMR, ICP-OES
-- **Modeling:** Amber, Gaussian, Spartan, VMD
-- **Microbiology:** Culture of bacteria and model plants
-- **Other:** 3D printing, CAD (Onshape, OpenSCAD), electronics (Arduino)
-
-
-# Computer skills
-
-- 2010: **C2i – "Certificat Informatique et Internet"**  
-Deep knowledge of Python, LaTeX, HTML, CSS, Bash, git. Basis with C/C++ and
-PHP. Daily usage of GNU/Linux. Developer of [ChemBrows](www.chembrows.com),
-contributor to [scikit-learn](http://scikit-learn.org/stable/) and
-[Cura](https://ultimaker.com/en/products/ultimaker-cura-software)
-
-
-# Publications (9)
+# Recent Publications
 
 - Digitization of multi-step organic synthesis in reactionware for on
 demand pharmaceuticals  
@@ -105,27 +61,3 @@ C. Coppola, and M. F. Ottaviani, *Macromol. Biosci.*, 2015, **15**, 275 - <font 
 <p align="center">
   <img src="images/chara.png">
 </p>
-
-
-# Conferences (6)
-
-Slides and posters available [here](https://github.com/JPFrancoia/PostersSlides)
-
-
-- **JMJC 2016 (Journées Méditerranéennes des Jeunes Chercheurs)**, *Nice*, France  
-Poster presentation
-
-- **MSMLG 2016 (Molecular Sensors and Molecular Logic Gates)**, *Bath*, United Kingdom  
-Oral presentation and poster presentation
-
-- **JMJC 2015 (Journées Méditerranéennes des Jeunes Chercheurs)**, *Montpellier*, France  
-Oral presentation
-
-- **MeMoSim 2015 (Modeling Methods and multiscale Simulations)**, *Lyon*, France  
-Poster presentation
-
-- **Balard Chemistry Conferences 2014**, *La Grande Motte*, France  
-Poster presentation
-
-- **JJC 2014 (Journées des Jeunes Chercheurs)**, *Montpellier*, France  
-Poster presentation
