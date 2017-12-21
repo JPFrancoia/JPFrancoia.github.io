@@ -1,24 +1,13 @@
-<ul id="posts">
-    {% for post in paginator.posts %}
- <a href="{{ post.url }}">
-    <li>
-      <div>
-        {% assign foundImage = 0 %}
-          {% assign images = post.content | split:"<img " %}
-              {% for image in images %}
-                {% if image contains 'src' %}
-                    {% if foundImage == 0 %}
-                    {% assign html = image | split:"/>" | first %}
-                    <time>{{ post.date | date:"%d %b %Y" }}</time>
-                    <h3>{{ post.title }}</h3>
-                    <hr>
-                    <div><img width="250" {{ html }} />{{ post.desc }}</div>
-                     {% assign foundImage = 1 %}
-                    {% endif %}
-             {% endfor %}
-        </div>
-     </li>
- </a>
-    {% endif %} 
-    {% endfor %}
-</ul>
+---
+title: Projects
+layout: default
+
+---
+
+{% for post in site.posts %}
+  <div class="post">
+  <h3><a href="{{ post.url }}" class="post_title_a">{{ post.title }}</a></h3>
+  <hr>
+  {{ post.excerpt }}
+  </div>
+{% endfor %}

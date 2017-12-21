@@ -42,13 +42,35 @@ a {
   }
 }
 
-a.nostyle {
+a.header_a {
   color: $header-heading-color;
   text-decoration: none;
 
   &:hover {
     text-decoration: underline;
   }
+}
+
+a.post_title_a {
+  color: $section-headings-color;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+a.button {
+  width: 200px;
+  background-color: white;
+  border: $code-text-color solid;
+  color: $code-text-color;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
 }
 
 .btn {
@@ -323,6 +345,22 @@ a.nostyle {
     margin: 1rem 0;
     background-color: $hr-border-color;
     border: 0;
+  }
+
+  div.post {
+      box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+      transition: 0.3s;
+      padding: 16px;
+      border-radius: 10px;
+
+      img {
+        float: left;
+        padding: 0 20px 20px 0;
+      }
+
+      p {
+          text-align: justify;
+      }
   }
 }
 

@@ -1,5 +1,7 @@
 ---
 title: "Jean-Patrick Francoia"
+layout: default
+
 ---
 
 # About me
@@ -78,3 +80,26 @@ C. Coppola, and M. F. Ottaviani, *Macromol. Biosci.*, 2015, **15**, 275 - <font 
 <p align="center">
   <img src="images/chara.png">
 </p>
+
+
+# Conferences
+
+Slides and posters available [here](https://github.com/JPFrancoia/PostersSlides)
+
+- **JMJC 2016 (Journées Méditerranéennes des Jeunes Chercheurs)**, *Nice*, France  
+Poster presentation
+
+- **MSMLG 2016 (Molecular Sensors and Molecular Logic Gates)**, *Bath*, United Kingdom  
+Oral presentation and poster presentation
+
+- **JMJC 2015 (Journées Méditerranéennes des Jeunes Chercheurs)**, *Montpellier*, France  
+Oral presentation
+
+- **MeMoSim 2015 (Modeling Methods and multiscale Simulations)**, *Lyon*, France  
+Poster presentation
+
+- **Balard Chemistry Conferences 2014**, *La Grande Motte*, France  
+Poster presentation
+
+- **JJC 2014 (Journées des Jeunes Chercheurs)**, *Montpellier*, France  
+Poster presentation
