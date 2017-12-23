@@ -81,6 +81,11 @@ C. Coppola, and M. F. Ottaviani, *Macromol. Biosci.*, 2015, **15**, 275 - <font 
   <img src="images/chara.png">
 </p>
 
+## My Ph. D thesis
+
+- Le principe KISS appliqué à la conception de senseurs et à la veille
+    bibliographique: [\[PDF\]]({{ site.baseurl }}/attached/thesis.pdf)
+
 
 # Conferences
 
