@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: posts
 title:  "A fantastic title"
 excerpt_separator: <!--more-->
 image: an_image.jpg

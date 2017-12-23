@@ -347,6 +347,7 @@ a.button {
     border: 0;
   }
 
+  /*Div on "projects" page. Used for short description of posts*/
   div.post {
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     transition: 0.3s;
@@ -369,6 +370,11 @@ a.button {
   div.post:hover {
     box-shadow: 0 32px 64px 0 rgba(0,0,0,0.2);
     cursor: pointer;
+  }
+
+  /* justify text in posts*/
+  section.post {
+      text-align: justify;
   }
 
 }
