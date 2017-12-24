@@ -321,6 +321,7 @@ a.button {
       padding: 0.5rem 1rem;
       border: 1px solid $table-border-color;
     }
+
   }
 
   dl {
@@ -375,6 +376,14 @@ a.button {
   /* justify text in posts*/
   section.post {
       text-align: justify;
+
+      table {
+        display: table;
+        width: unset;
+        margin-left: auto;
+        margin-right: auto;
+      }
+
   }
 
 }
