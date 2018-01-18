@@ -23,10 +23,14 @@ work, I research new techniques to improve the capabilities of these reactors.
 
 # Recent Publications
 
-- Digitization of multi-step organic synthesis in reactionware for on
-demand pharmaceuticals  
+- [Digitization of multi-step organic synthesis in reactionware for on
+demand pharmaceuticals](http://science.sciencemag.org/content/359/6373/314)  
 P. J. Kitson, G. Marie, J.-P. Francoia, S. S. Zalesskiy, R. C. Sigerson,
-J. S. Mathieson and L. Cronin *Science*, 2017, *accepted*
+J. S. Mathieson and L. Cronin *Science*, 2018, **359**, 314
+
+<p align="center">
+  <img width="350px" src="images/baclofen.gif">
+</p>
 
 - [Everything you always wanted to know about poly-*L*-lysine dendrigrafts (but were afraid to ask)](http://onlinelibrary.wiley.com/wol1/doi/10.1002/chem.201704147/abstract)  
 J.-P. Francoia and L. Vial, *Chem. Eur. J.*, 2017, **DOI:**
@@ -42,7 +46,7 @@ J.-P. Francoia, J.-C Rossi, G. Monard and L. Vial, *J. Chem. Inf. Model.*,
   <img src="images/digitizing.gif">
 </p>
 
-- [Chirality Sensing and Discrimination of Lysine Derivatives in Physiological Conditions with a Dyn\[4\]arene](http://pubs.rsc.org/en/content/articlelanding/2016/cc/c6cc07713g)
+- [Chirality Sensing and Discrimination of Lysine Derivatives in Physiological Conditions with a Dyn\[4\]arene](http://pubs.rsc.org/en/content/articlelanding/2016/cc/c6cc07713g)  
 L. Vial, M. Dumartin, M. Donnier-Maréchal, F. Perret, J.-P. Francoia,
 J. Leclaire, *Chem. Commun.*, 2016, **52**, 14219
 <p align="center">
@@ -74,7 +78,7 @@ A. Proñ, H. Norouzi-Arasi, K. Månsson, P. Bujalowski, A. Cederbalk,
 T. H. Pham, T. Wixe, S. Dawaigher and K. Wärnmark, *ChemCatChem*, 2015,
 **7**, 333 - <font color="#159957">citation: 1</font>  
 
-- [Multi-Technique Characterization of Poly-L-lysine Dendrigrafts–Cu(II) Complexes for Biocatalysis](http://onlinelibrary.wiley.com/doi/10.1002/mabi.201400341/abstract)
+- [Multi-Technique Characterization of Poly-L-lysine Dendrigrafts–Cu(II) Complexes for Biocatalysis](http://onlinelibrary.wiley.com/doi/10.1002/mabi.201400341/abstract)  
 J.-C. Rossi, B. Maret, K. Vidot, J.-P. Francoia, M. Cangiotti, S. Lucchi,
 C. Coppola, and M. F. Ottaviani, *Macromol. Biosci.*, 2015, **15**, 275 - <font color="#159957">citations: 4</font>  
 <p align="center">
