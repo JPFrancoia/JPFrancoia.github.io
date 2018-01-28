@@ -23,8 +23,8 @@ work, I research new techniques to improve the capabilities of these reactors.
 
 # Recent Publications
 
-- [Digitization of multi-step organic synthesis in reactionware for on
-demand pharmaceuticals](http://science.sciencemag.org/content/359/6373/314)  
+- [Digitization of multistep organic synthesis in reactionware for on-demand
+pharmaceuticals](http://science.sciencemag.org/content/359/6373/314)
 P. J. Kitson, G. Marie, J.-P. Francoia, S. S. Zalesskiy, R. C. Sigerson,
 J. S. Mathieson and L. Cronin *Science*, 2018, **359**, 314.  
 **Video:** [https://www.youtube.com/watch?v=0Uc76tzNmtM&feature=youtu.be](https://www.youtube.com/watch?v=0Uc76tzNmtM&feature=youtu.be)
