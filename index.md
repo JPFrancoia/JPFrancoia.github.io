@@ -17,7 +17,7 @@ was awarded a PhD in 2016.
 In 2017, I moved to Glasgow to join the group of
 <a href="http://www.chem.gla.ac.uk/cronin">Prof. Lee Cronin</a> as a
 PostDoc. I'm now a part of the "reactionware" team, which aims to digitize
-organic chemistry through, for example, 3D printed reactors. In my day to day
+organic chemistry through, for example, 3D printed reactors. In my day-to-day
 work, I research new techniques to improve the capabilities of these reactors.
 </p>
 
@@ -81,7 +81,7 @@ T. H. Pham, T. Wixe, S. Dawaigher and K. Wärnmark, *ChemCatChem*, 2015,
 
 - [Multi-Technique Characterization of Poly-L-lysine Dendrigrafts–Cu(II) Complexes for Biocatalysis](http://onlinelibrary.wiley.com/doi/10.1002/mabi.201400341/abstract)  
 J.-C. Rossi, B. Maret, K. Vidot, J.-P. Francoia, M. Cangiotti, S. Lucchi,
-C. Coppola, and M. F. Ottaviani, *Macromol. Biosci.*, 2015, **15**, 275 - <font color="#159957">citations: 4</font>  
+C. Coppola, and M. F. Ottaviani, *Macromol. Biosci.*, 2015, **15**, 275 - <font color="#159957">citations: 5</font>  
 <p align="center">
   <img src="images/chara.png">
 </p>
