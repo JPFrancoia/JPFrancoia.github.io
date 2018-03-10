@@ -96,6 +96,9 @@ C. Coppola, and M. F. Ottaviani, *Macromol. Biosci.*, 2015, **15**, 275 - <font 
 
 Slides and posters available [here](https://github.com/JPFrancoia/PostersSlides)
 
+- **RSC Twitter Poster Conference 2018**, *Twitter*, World  
+Poster presentation
+
 - **JMJC 2016 (Journées Méditerranéennes des Jeunes Chercheurs)**, *Nice*, France  
 Poster presentation
 
