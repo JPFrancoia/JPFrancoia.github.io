@@ -26,7 +26,7 @@ color="#159957">citation: 1</font>
 
 - [Digitizing Poly-*L*-Lysine Dendrigrafts: from Experimental Data to Molecular Dynamics Simulations](http://pubs.acs.org/doi/pdf/10.1021/acs.jcim.7b00258)  
 J.-P. Francoia, J.-C Rossi, G. Monard and L. Vial, *J. Chem. Inf. Model.*,
-2017, **57**, 2173 - <font color="#159957">citations:&nbsp;2</font>  
+2017, **57**, 2173 - <font color="#159957">citations:&nbsp;3</font>  
 <p align="center">
   <img src="images/digitizing.gif">
 </p>
