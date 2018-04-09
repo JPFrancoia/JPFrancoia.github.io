@@ -33,7 +33,8 @@ J.-P. Francoia, J.-C Rossi, G. Monard and L. Vial, *J. Chem. Inf. Model.*,
 
 - [Chirality Sensing and Discrimination of Lysine Derivatives in Physiological Conditions with a Dyn\[4\]arene](http://pubs.rsc.org/en/content/articlelanding/2016/cc/c6cc07713g)  
 L. Vial, M. Dumartin, M. Donnier-Maréchal, F. Perret, J.-P. Francoia,
-J. Leclaire, *Chem. Commun.*, 2016, **52**, 14219
+J. Leclaire, *Chem. Commun.*, 2016, **52**, 14219 - <font
+color="#159957">citation: 1</font>  
 <p align="center">
   <img src="images/chirality.gif">
 </p>
