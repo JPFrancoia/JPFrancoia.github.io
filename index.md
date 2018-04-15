@@ -20,7 +20,7 @@ capabilities of these reactors.
 - [Digitization of multistep organic synthesis in reactionware for on-demand
 pharmaceuticals](http://science.sciencemag.org/content/359/6373/314)
 P. J. Kitson, G. Marie, J.-P. Francoia, S. S. Zalesskiy, R. C. Sigerson,
-J. S. Mathieson and L. Cronin *Science*, 2018, **359**, 314.  
+J. S. Mathieson and L. Cronin *Science*, 2018, **359**, 314  
 **Video:** [https://www.youtube.com/watch?v=0Uc76tzNmtM&feature=youtu.be](https://www.youtube.com/watch?v=0Uc76tzNmtM&feature=youtu.be)
 
 <p align="center">
