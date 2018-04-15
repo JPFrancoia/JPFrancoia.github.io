@@ -29,7 +29,7 @@ J. S. Mathieson and L. Cronin *Science*, 2018, **359**, 314.
 
 - [ChemBrows: An Open-Source Application Software To Keep Up to Date with the Current Literature](http://pubs.acs.org/doi/abs/10.1021/acs.jchemed.6b00024)  
 J.-P. Francoia and L. Vial, *J. Chem. Educ*, 2016, **93**, 1137 - <font color="#159957">open access</font>  
-**Website:** [https://www.chembrows.com/website/](www.chembrows.com)
+**Website:** [www.chembrows.com](https://www.chembrows.com/website/)
 
 <p align="center">
   <img src="images/cb.gif">
