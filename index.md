@@ -20,8 +20,7 @@ capabilities of these reactors.
 - [Digitization of multistep organic synthesis in reactionware for on-demand
 pharmaceuticals](http://science.sciencemag.org/content/359/6373/314)
 P. J. Kitson, G. Marie, J.-P. Francoia, S. S. Zalesskiy, R. C. Sigerson,
-J. S. Mathieson and L. Cronin *Science*, 2018, **359**, 314. <font
-color="#159957">citation: 1</font>  
+J. S. Mathieson and L. Cronin *Science*, 2018, **359**, 314.
 **Video:** [https://www.youtube.com/watch?v=0Uc76tzNmtM&feature=youtu.be](https://www.youtube.com/watch?v=0Uc76tzNmtM&feature=youtu.be)
 
 <p align="center">
@@ -29,7 +28,7 @@ color="#159957">citation: 1</font>
 </p>
 
 - [ChemBrows: An Open-Source Application Software To Keep Up to Date with the Current Literature](http://pubs.acs.org/doi/abs/10.1021/acs.jchemed.6b00024)  
-J.-P. Francoia and L. Vial, *J. Chem. Educ*, 2016, **93**, 1137 - <font color="#159957">open access, citation: 1</font>  
+J.-P. Francoia and L. Vial, *J. Chem. Educ*, 2016, **93**, 1137 - <font color="#159957">open access</font>  
 **Website:** [https://www.chembrows.com/website/](www.chembrows.com)
 
 <p align="center">
