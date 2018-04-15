@@ -30,6 +30,8 @@ color="#159957">citation: 1</font>
 
 - [ChemBrows: An Open-Source Application Software To Keep Up to Date with the Current Literature](http://pubs.acs.org/doi/abs/10.1021/acs.jchemed.6b00024)  
 J.-P. Francoia and L. Vial, *J. Chem. Educ*, 2016, **93**, 1137 - <font color="#159957">open access, citation: 1</font>  
+**Website:** [http://www.chembrows.com/website/](http://www.chembrows.com/website/)
+
 <p align="center">
   <img src="images/cb.gif">
 </p>

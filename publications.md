@@ -46,7 +46,7 @@ J.-P. Francoia and L. Vial, *J. Chem. Educ*, 2016, **93**, 1137 - <font color="#
 </p>
 
 - [A KISS (Keep It Simple, Sensor) Array for Glycosaminoglycans](http://pubs.rsc.org/en/content/articlelanding/2014/cc/c5cc07628e\#!divAbstract)  
-J.-P. Francoia and L. Vial, *Chem. Commun.*, 2015, **51**, 17544 - <font color="#159957">citations: 3</font>  
+J.-P. Francoia and L. Vial, *Chem. Commun.*, 2015, **51**, 17544 - <font color="#159957">citations: 4</font>  
 <p align="center">
   <img src="images/kiss.gif">
 </p>
