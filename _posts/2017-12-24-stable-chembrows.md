@@ -19,18 +19,18 @@ The first commit is as old as 16th October 2014. Even with my new PostDoc
 position, I never ceased to work on this software that is my pride. With
 the help of Laurent Vial and all our users, ChemBrows finally reached a
 state we judge perfectly stable, after more than three years of development.
-Here are a few statistics about ChemBrows as of today (24/12/2017).  
+Here are a few statistics about ChemBrows as of today (23/06/2018).  
 
 <br>
 
 | Total users    | 255 |
 |----------------|-----|
-| Ph. D students | 67  |
-| Students       | 22  |
-| Researchers    | 58  |
-| Post docs      | 28  |
-| Professors     | 64  |
-| Obi Wan Kenobi | 16  |
+| Ph. D students | 89  |
+| Students       | 28  |
+| Researchers    | 74  |
+| Post docs      | 37  |
+| Professors     | 78  |
+| Obi Wan Kenobi | 19  |
 
 <br>
 
