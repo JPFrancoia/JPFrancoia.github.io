@@ -23,7 +23,7 @@ Here are a few statistics about ChemBrows as of today (23/06/2018).
 
 <br>
 
-| Total users    | 255 |
+| Total users    | 325 |
 |----------------|-----|
 | Ph. D students | 89  |
 | Students       | 28  |
