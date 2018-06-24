@@ -1,7 +1,7 @@
 ---
 layout: posts
 title:  "Printing DGLs with an Ultimaker 3"
-image: printed_G3_G4.jpg
+image: printed_G3_G4_list.jpg
 
 excerpt: "In this post I'll demonstrate the printing capabilities of the latest 3D
 printer made by Ultimaker: the Ultimaker 3. I'll test them on the model of
@@ -72,7 +72,7 @@ I also repeated the same procedure for a fourth generation DGL (DGL G4,
 PDB [here]({{ site.baseurl }}/attached/G4.pdb), on the right of the picture):
 
 <p align="center">
-  <img width="700" src="{{ site.baseurl }}/images/printed_G3_G4.jpg">
+  <img width="700" src="{{ site.baseurl }}/images/printed_G3_G4_article.jpg">
 </p>
 
 I think the combination dual extruder/soluble material allows FDM printers
