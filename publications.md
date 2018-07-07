@@ -66,7 +66,7 @@ T. H. Pham, T. Wixe, S. Dawaigher and K. Wärnmark, *ChemCatChem*, 2015,
 
 - [Multi-Technique Characterization of Poly-L-lysine Dendrigrafts–Cu(II) Complexes for Biocatalysis](http://onlinelibrary.wiley.com/doi/10.1002/mabi.201400341/abstract)  
 J.-C. Rossi, B. Maret, K. Vidot, J.-P. Francoia, M. Cangiotti, S. Lucchi,
-C. Coppola, and M. F. Ottaviani, *Macromol. Biosci.*, 2015, **15**, 275 - <font color="#159957">citations: 7</font>  
+C. Coppola, and M. F. Ottaviani, *Macromol. Biosci.*, 2015, **15**, 275 - <font color="#159957">citations: 8</font>  
 <p align="center">
   <img src="images/chara.png">
 </p>
