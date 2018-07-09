@@ -81,6 +81,10 @@ C. Coppola, and M. F. Ottaviani, *Macromol. Biosci.*, 2015, **15**, 275 - <font 
 
 Slides and posters available [here](https://github.com/JPFrancoia/PostersSlides)
 
+- **Welcome Genome Campus Hackathon 2018**, *Hinxton*, United Kingdom
+Medicine Discovery Catapult's challenge:  
+*How can we combine drug and genetic data to intelligently prescribe drugs?*
+
 - **RSC Twitter Poster Conference 2018**, *Twitter*, World  
 Poster presentation
 
