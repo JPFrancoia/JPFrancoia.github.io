@@ -9,7 +9,10 @@ layout: default
 - [Wetting the lock and key enthalpically favours polyelectrolytes binding](https://pubs.rsc.org/en/Content/ArticleLanding/2018/SC/C8SC02966K)  
 E. Jeamet, J. Septavaux, A. Héloin, M. Donnier-Maréchal, M. Dumartin,
 B. Ourri, P. K. Mandal, I. Huc, E. Bignon, E. Dumont, C. Morell,
-J.-P. Francoia, F. Perret, L. Vial and J. Leclaire *Chem. Sci.*, **DOI:** 10.1039/C8SC02966K
+J.-P. Francoia, F. Perret, L. Vial and J. Leclaire *Chem. Sci.*, **DOI:** 10.1039/C8SC02966K  
+<p align="center">
+  <img src="images/wet_and_lock.jpg">
+</p>
 
 - [Digitization of multistep organic synthesis in reactionware for on-demand
 pharmaceuticals](http://science.sciencemag.org/content/359/6373/314)  
