@@ -12,7 +12,10 @@ of <a href="http://www.chem.gla.ac.uk/cronin">Prof. Lee Cronin</a> as a
 postdoctoral research associate. I was part of the "reactionware" team,
 which aims to digitize organic chemistry through, for example, 3D printed
 reactors.
+</p>
 
+<p align="justify">
+After obtaining my PhD in 2016, I moved to Glasgow to join the group
 In 2018, I decided to leave academia to join Okra Technologies, a dynamic
 start-up, as a data engineer. As OKRANs, we are building artificial
 intelligence analytics engine for healthcare, and we hope to improve human
