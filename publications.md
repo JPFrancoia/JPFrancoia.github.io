@@ -8,7 +8,7 @@ layout: default
 
 - [Dendrigraft of Poly-*L*-lysine as a Promising
 Candidate To Reverse Heparin-based Anticoagulants in Clinical
-Settings](https://pubs.acs.org/doi/abs/10.1021/acsmedchemlett.9b00090)
+Settings](https://pubs.acs.org/doi/abs/10.1021/acsmedchemlett.9b00090)  
 B. Ourri, J.-P. Francoia, G. Monard, J.-C. Gris, J. Leclaire, and L. Vial,
 **DOI**: 10.1021/acsmedchemlett.9b00090
 <p align="center">
