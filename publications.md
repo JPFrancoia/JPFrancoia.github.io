@@ -6,6 +6,12 @@ layout: default
 
 # Publications
 
+- [Interview C&EN: Polymer could be a broader heparin blocker (by Louisa
+Dalton)](https://cen.acs.org/pharmaceuticals/drug-development/Polymer-broader-heparin-blocker/97/web/2019/06?utm_source=Staff&utm_medium=Social&utm_campaign=CEN)
+<p align="center">
+  <img src="images/cen_news.jpg">
+</p>
+
 - [Dendrigraft of Poly-*L*-lysine as a Promising
 Candidate To Reverse Heparin-based Anticoagulants in Clinical
 Settings](https://pubs.acs.org/doi/abs/10.1021/acsmedchemlett.9b00090)  
