@@ -77,7 +77,7 @@ J.-P. Francoia and L. Vial, *Chem. Commun.*, 2015, **51**, 17544 - <font color="
 
 - [Monitoring Clinical Levels of Heparin in Human Blood Samples with an Indicator-Displacement Assay](http://pubs.rsc.org/en/Content/ArticleLanding/2015/CC/c4cc08563a\#!divAbstract)  
 J.-P. Francoia, R. Pascal, and L. Vial, *Chem. Commun.*, 2015, **51**,
-1953 - <font color="#159957">citations: 14</font>  
+1953 - <font color="#159957">citations: 15</font>  
 <p align="center">
   <img src="images/heparin.gif">
 </p>
