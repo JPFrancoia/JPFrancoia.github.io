@@ -34,7 +34,7 @@ J.-P. Francoia, F. Perret, L. Vial and J. Leclaire *Chem. Sci.*, 2019, **10**,
 pharmaceuticals](http://science.sciencemag.org/content/359/6373/314)  
 P. J. Kitson, G. Marie, J.-P. Francoia, S. S. Zalesskiy, R. C. Sigerson,
 J. S. Mathieson and L. Cronin *Science*, 2018, **359**, 314. <font
-color="#159957">citations: 40</font>  
+color="#159957">citations: 41</font>  
 **Video:** [https://www.youtube.com/watch?v=0Uc76tzNmtM&feature=youtu.be](https://www.youtube.com/watch?v=0Uc76tzNmtM&feature=youtu.be)
 
 <p align="center">
@@ -58,7 +58,7 @@ J.-P. Francoia, J.-C Rossi, G. Monard and L. Vial, *J. Chem. Inf. Model.*,
 - [Chirality Sensing and Discrimination of Lysine Derivatives in Physiological Conditions with a Dyn\[4\]arene](http://pubs.rsc.org/en/content/articlelanding/2016/cc/c6cc07713g)  
 L. Vial, M. Dumartin, M. Donnier-Maréchal, F. Perret, J.-P. Francoia,
 J. Leclaire, *Chem. Commun.*, 2016, **52**, 14219 - <font
-color="#159957">citation: 1</font>  
+color="#159957">citation: 2</font>  
 <p align="center">
   <img src="images/chirality.gif">
 </p>
