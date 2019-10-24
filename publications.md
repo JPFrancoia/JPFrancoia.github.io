@@ -34,7 +34,7 @@ J.-P. Francoia, F. Perret, L. Vial and J. Leclaire *Chem. Sci.*, 2019, **10**,
 pharmaceuticals](http://science.sciencemag.org/content/359/6373/314)  
 P. J. Kitson, G. Marie, J.-P. Francoia, S. S. Zalesskiy, R. C. Sigerson,
 J. S. Mathieson and L. Cronin *Science*, 2018, **359**, 314. <font
-color="#159957">citations: 43</font>  
+color="#159957">citations: 44</font>  
 **Video:** [https://www.youtube.com/watch?v=0Uc76tzNmtM&feature=youtu.be](https://www.youtube.com/watch?v=0Uc76tzNmtM&feature=youtu.be)
 
 <p align="center">
@@ -70,7 +70,7 @@ J.-P. Francoia and L. Vial, *J. Chem. Educ*, 2016, **93**, 1137 - <font color="#
 </p>
 
 - [A KISS (Keep It Simple, Sensor) Array for Glycosaminoglycans](http://pubs.rsc.org/en/content/articlelanding/2014/cc/c5cc07628e\#!divAbstract)  
-J.-P. Francoia and L. Vial, *Chem. Commun.*, 2015, **51**, 17544 - <font color="#159957">citations: 7</font>  
+J.-P. Francoia and L. Vial, *Chem. Commun.*, 2015, **51**, 17544 - <font color="#159957">citations: 8</font>  
 <p align="center">
   <img src="images/kiss.gif">
 </p>
