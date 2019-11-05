@@ -14,9 +14,10 @@ Dalton)](https://cen.acs.org/pharmaceuticals/drug-development/Polymer-broader-he
 
 - [Dendrigraft of Poly-*L*-lysine as a Promising
 Candidate To Reverse Heparin-based Anticoagulants in Clinical
-Settings](https://pubs.acs.org/doi/abs/10.1021/acsmedchemlett.9b00090)  
+Settings](https://pubs.acs.org/doi/abs/10.1021/acsmedchemlett.9b00090)
 B. Ourri, J.-P. Francoia, G. Monard, J.-C. Gris, J. Leclaire, and L. Vial,
-*ACS Med. Chem. Lett.*, 2019, **10**, 917
+*ACS Med. Chem. Lett.*, 2019, **10**, 917. <font color="#159957">citation:
+1</font>  
 <p align="center">
   <img src="images/protamine.jpg">
 </p>
@@ -70,14 +71,14 @@ J.-P. Francoia and L. Vial, *J. Chem. Educ*, 2016, **93**, 1137 - <font color="#
 </p>
 
 - [A KISS (Keep It Simple, Sensor) Array for Glycosaminoglycans](http://pubs.rsc.org/en/content/articlelanding/2014/cc/c5cc07628e\#!divAbstract)  
-J.-P. Francoia and L. Vial, *Chem. Commun.*, 2015, **51**, 17544 - <font color="#159957">citations: 8</font>  
+J.-P. Francoia and L. Vial, *Chem. Commun.*, 2015, **51**, 17544 - <font color="#159957">citations: 9</font>  
 <p align="center">
   <img src="images/kiss.gif">
 </p>
 
 - [Monitoring Clinical Levels of Heparin in Human Blood Samples with an Indicator-Displacement Assay](http://pubs.rsc.org/en/Content/ArticleLanding/2015/CC/c4cc08563a\#!divAbstract)  
 J.-P. Francoia, R. Pascal, and L. Vial, *Chem. Commun.*, 2015, **51**,
-1953 - <font color="#159957">citations: 15</font>  
+1953 - <font color="#159957">citations: 16</font>  
 <p align="center">
   <img src="images/heparin.gif">
 </p>
