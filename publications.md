@@ -35,7 +35,7 @@ J.-P. Francoia, F. Perret, L. Vial and J. Leclaire *Chem. Sci.*, 2019, **10**,
 pharmaceuticals](http://science.sciencemag.org/content/359/6373/314)  
 P. J. Kitson, G. Marie, J.-P. Francoia, S. S. Zalesskiy, R. C. Sigerson,
 J. S. Mathieson and L. Cronin *Science*, 2018, **359**, 314. <font
-color="#159957">citations: 46</font>  
+color="#159957">citations: 48</font>  
 **Video:** [https://www.youtube.com/watch?v=0Uc76tzNmtM&feature=youtu.be](https://www.youtube.com/watch?v=0Uc76tzNmtM&feature=youtu.be)
 
 <p align="center">
@@ -44,14 +44,14 @@ color="#159957">citations: 46</font>
 
 - [Everything you always wanted to know about poly-*L*-lysine dendrigrafts (but were afraid to ask)](http://onlinelibrary.wiley.com/wol1/doi/10.1002/chem.201704147/abstract)  
 J.-P. Francoia and L. Vial, *Chem. Eur. J.*, 2017, **24**, 2806 - <font
-color="#159957">citations: 3</font>  
+color="#159957">citations: 4</font>  
 <p align="center">
   <img src="images/review.jpg">
 </p>
 
 - [Digitizing Poly-*L*-Lysine Dendrigrafts: from Experimental Data to Molecular Dynamics Simulations](http://pubs.acs.org/doi/pdf/10.1021/acs.jcim.7b00258)  
 J.-P. Francoia, J.-C Rossi, G. Monard and L. Vial, *J. Chem. Inf. Model.*,
-2017, **57**, 2173 - <font color="#159957">citations:&nbsp;5</font>  
+2017, **57**, 2173 - <font color="#159957">citations:&nbsp;6</font>  
 <p align="center">
   <img src="images/digitizing.gif">
 </p>
