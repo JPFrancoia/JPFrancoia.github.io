@@ -17,7 +17,7 @@ Candidate To Reverse Heparin-based Anticoagulants in Clinical
 Settings](https://pubs.acs.org/doi/abs/10.1021/acsmedchemlett.9b00090)
 B. Ourri, J.-P. Francoia, G. Monard, J.-C. Gris, J. Leclaire, and L. Vial,
 *ACS Med. Chem. Lett.*, 2019, **10**, 917. <font color="#159957">citation:
-1</font>  
+2</font>  
 <p align="center">
   <img src="images/protamine.jpg">
 </p>
@@ -35,7 +35,7 @@ J.-P. Francoia, F. Perret, L. Vial and J. Leclaire *Chem. Sci.*, 2019, **10**,
 pharmaceuticals](http://science.sciencemag.org/content/359/6373/314)  
 P. J. Kitson, G. Marie, J.-P. Francoia, S. S. Zalesskiy, R. C. Sigerson,
 J. S. Mathieson and L. Cronin *Science*, 2018, **359**, 314. <font
-color="#159957">citations: 48</font>  
+color="#159957">citations: 50</font>  
 **Video:** [https://www.youtube.com/watch?v=0Uc76tzNmtM&feature=youtu.be](https://www.youtube.com/watch?v=0Uc76tzNmtM&feature=youtu.be)
 
 <p align="center">
@@ -78,7 +78,7 @@ J.-P. Francoia and L. Vial, *Chem. Commun.*, 2015, **51**, 17544 - <font color="
 
 - [Monitoring Clinical Levels of Heparin in Human Blood Samples with an Indicator-Displacement Assay](http://pubs.rsc.org/en/Content/ArticleLanding/2015/CC/c4cc08563a\#!divAbstract)  
 J.-P. Francoia, R. Pascal, and L. Vial, *Chem. Commun.*, 2015, **51**,
-1953 - <font color="#159957">citations: 17</font>  
+1953 - <font color="#159957">citations: 18</font>  
 <p align="center">
   <img src="images/heparin.gif">
 </p>
