@@ -16,7 +16,7 @@ Dalton)](https://cen.acs.org/pharmaceuticals/drug-development/Polymer-broader-he
 Candidate To Reverse Heparin-based Anticoagulants in Clinical
 Settings](https://pubs.acs.org/doi/abs/10.1021/acsmedchemlett.9b00090)
 B. Ourri, J.-P. Francoia, G. Monard, J.-C. Gris, J. Leclaire, and L. Vial,
-*ACS Med. Chem. Lett.*, 2019, **10**, 917. <font color="#159957">citation:
+*ACS Med. Chem. Lett.*, 2019, **10**, 917. <font color="#159957">citations:
 2</font>  
 <p align="center">
   <img src="images/protamine.jpg">
@@ -26,7 +26,8 @@ B. Ourri, J.-P. Francoia, G. Monard, J.-C. Gris, J. Leclaire, and L. Vial,
 E. Jeamet, J. Septavaux, A. Héloin, M. Donnier-Maréchal, M. Dumartin,
 B. Ourri, P. K. Mandal, I. Huc, E. Bignon, E. Dumont, C. Morell,
 J.-P. Francoia, F. Perret, L. Vial and J. Leclaire *Chem. Sci.*, 2019, **10**,
-277  
+277 <font color="#159957">citation: 1</font>  
+
 <p align="center">
   <img src="images/wet_and_lock.jpg">
 </p>
