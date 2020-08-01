@@ -118,18 +118,19 @@ a lot of reliability issues:
 - Sometimes the messages sent to the MQTT server would never arrive
 
 Solving the hardware issues was straightforward: better soldering of the
-components and less frequent measurements. Solving the network issues
-proved to be harder. It turns out the wifi antenna on this kind of board
-isn't really good (for a board costing less than 10€, no surprise...). So
-instead of letting the station communicate directly with my main router,
-I turned a Raspberry pi 4 that I had in a drawer into a network bridge. I
-plugged a wifi dongle into the Pi to give it an additional wifi interface
-(the Raspberry pi models 3 and 4 already have an internal wifi chip). Then
-I created a small network on one wifi interface so that the weather station
-could communicate with the Pi. This small network is isolated from the
-Internet. The station sends its data to the Pi via this small network, but
-the Pi is connected directly to my main router via its other wifi interface
-(coming from its internal wifi chip).
+components and less frequent measurements. Solving the network issues proved
+to be harder. It turns out the wifi antenna on this kind of board isn't really
+good (for a board costing less than 10€, no surprise...). So instead of
+letting the station communicate directly with my main router (which is far
+away from the final position of the weather station), I turned a Raspberry
+pi 4 that I had in a drawer into a network bridge. The Pi acts like a relay,
+and I positioned it close to the station. To do that I plugged a wifi dongle
+into the Pi to give it an additional wifi interface (the Raspberry pi models
+3 and 4 already have an internal wifi chip). Then I created a small network
+on one wifi interface so that the weather station could communicate with the
+Pi. This small network is isolated from the Internet. The station sends its
+data to the Pi via this small network, but the Pi is connected directly to my
+main router via its other wifi interface (coming from its internal wifi chip).
 
 <p align="center">
   <img width="700" src="{{ site.baseurl }}/images/station/wifi_bridge.jpg">
