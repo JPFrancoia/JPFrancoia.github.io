@@ -151,7 +151,7 @@ At first I wanted to display the information sent by the sensors on an e-ink
 screen. I was able to display some numbers on the screen, but the e-ink screen
 drivers weren't well supported and I couldn't get the screen to work reliably.
 This is a shame because this kind of screen doesn't need a backlight to be
-read, while a TFT screen does. But the TFT screen is half cheaper.
+read, while a TFT screen does. But the TFT screen is half the price.
 
 <p align="center">
   <img width="700" src="{{ site.baseurl }}/images/station/e_ink_screen.jpg">
