@@ -44,10 +44,10 @@ without burning down my house).
 
 Here are the components I used:
 
-- [Light sensor]("https://www.amazon.fr/gp/product/B07VL6G73X/ref=ppx_yo_dt_b_asin_title_o07_s01?ie=UTF8&psc=1") 
-- [Temperature, pressure, humidity sensor]("https://www.amazon.fr/gp/product/B07D8T4HP6/ref=ppx_yo_dt_b_asin_title_o05_s02?ie=UTF8&psc=1")
-- [TFT screen]("https://www.tinytronics.nl/shop/nl/display/tft/2.2-inch-tft-display-240*320-pixels-ili9341")
-- [ESP32 dev kit board]("https://www.banggood.com/30Pin-ESP32-Development-Board-WiFibluetooth-Ultra-Low-Power-Consumption-Dual-Cores-ESP-32-ESP-32S-Board-p-1461896.html?rmmds=myorder&cur_warehouse=CN")
+- [Light sensor](https://www.amazon.fr/gp/product/B07VL6G73X/ref=ppx_yo_dt_b_asin_title_o07_s01?ie=UTF8&psc=1) 
+- [Temperature, pressure, humidity sensor](https://www.amazon.fr/gp/product/B07D8T4HP6/ref=ppx_yo_dt_b_asin_title_o05_s02?ie=UTF8&psc=1)
+- [TFT screen](https://www.tinytronics.nl/shop/nl/display/tft/2.2-inch-tft-display-240*320-pixels-ili9341)
+- [ESP32 dev kit board](https://www.banggood.com/30Pin-ESP32-Development-Board-WiFibluetooth-Ultra-Low-Power-Consumption-Dual-Cores-ESP-32-ESP-32S-Board-p-1461896.html?rmmds=myorder&cur_warehouse=CN)
 - 5x7 cm perfboard
 
 The ESP32 dev kit is the main component of the circuitry: it has wifi (and
