@@ -92,7 +92,7 @@ for the job, especially since the design of the enclosure was quite simple.
   <img width="700" src="{{ site.baseurl }}/images/station/enclosure.jpg">
 </p>
 
-You can find the FreeCAD files here: [front]({{ site.baseurl }}/attached/weather_station_front.FCStd); [back]({{ site.baseurl }}/attached/weather_station_front.FCStd)
+You can find the FreeCAD files here: [front]({{ site.baseurl }}/attached/weather_station_front.FCStd); [back]({{ site.baseurl }}/attached/weather_station_front.FCStd)  
 And the STL files (for 3D printing) are here: [front]({{ site.baseurl }}/attached/weather_station_front.stl); [back]({{ site.baseurl }}/attached/weather_station_front.stl)
 
 It took me 4-5 iterations to get the sensors perfectly aligned with the
@@ -132,7 +132,7 @@ the Pi is connected directly to my main router via its other wifi interface
 (coming from its internal wifi chip).
 
 <p align="center">
-  <img width="700" src="{{ site.baseurl }}/images/station/wifi_bridge.png">
+  <img width="700" src="{{ site.baseurl }}/images/station/wifi_bridge.jpg">
 </p>
 
 The MQTT server lives on the Raspberry Pi, as well as the Home Assistant
@@ -153,5 +153,5 @@ This is a shame because this kind of screen doesn't need a backlight to be
 read, while a TFT screen does. But the TFT screen is half cheaper.
 
 <p align="center">
-  <img width="700" src="{{ site.baseurl }}/images/station/e_ink_screen.png">
+  <img width="700" src="{{ site.baseurl }}/images/station/e_ink_screen.jpg">
 </p>
