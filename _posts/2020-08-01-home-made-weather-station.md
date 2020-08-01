@@ -107,7 +107,7 @@ this was only possible because the ESP32 is really a beast (compared to
 an Arduino UNO for example). Micropython requires 256Kb of RAM to run. The
 ESP32 has 520 KB of SRAM. In comparison, an Arduino UNO only has 2 KB.
 
-You can find the full code here: [https://github.com/JPFrancoia/esp32_devkit_weather_station]("https://github.com/JPFrancoia/esp32_devkit_weather_station")
+You can find the full code here: [https://github.com/JPFrancoia/esp32_devkit_weather_station](https://github.com/JPFrancoia/esp32_devkit_weather_station)
 
 Implementing the logic of the weather station seemed simple at first, but I had
 a lot of reliability issues:
