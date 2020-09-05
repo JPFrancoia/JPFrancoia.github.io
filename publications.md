@@ -17,7 +17,7 @@ Candidate To Reverse Heparin-based Anticoagulants in Clinical
 Settings](https://pubs.acs.org/doi/abs/10.1021/acsmedchemlett.9b00090)
 B. Ourri, J.-P. Francoia, G. Monard, J.-C. Gris, J. Leclaire, and L. Vial,
 *ACS Med. Chem. Lett.*, 2019, **10**, 917. <font color="#159957">citations:
-2</font>  
+3</font>  
 <p align="center">
   <img src="images/protamine.jpg">
 </p>
@@ -36,7 +36,7 @@ J.-P. Francoia, F. Perret, L. Vial and J. Leclaire *Chem. Sci.*, 2019, **10**,
 pharmaceuticals](http://science.sciencemag.org/content/359/6373/314)  
 P. J. Kitson, G. Marie, J.-P. Francoia, S. S. Zalesskiy, R. C. Sigerson,
 J. S. Mathieson and L. Cronin *Science*, 2018, **359**, 314. <font
-color="#159957">citations: 71</font>  
+color="#159957">citations: 72</font>  
 **Video:** [https://www.youtube.com/watch?v=0Uc76tzNmtM&feature=youtu.be](https://www.youtube.com/watch?v=0Uc76tzNmtM&feature=youtu.be)
 
 <p align="center">
