@@ -6,6 +6,11 @@ layout: default
 
 # Publications
 
+- [Automatic Generation of 3D Printed Reactionware for Chemical Synthesis
+Digitization using ChemSCAD](https://chemrxiv.org/s/01c0cd28362e763c438f)
+W. Hou, A. Bubliauskas, P. J. Kitson, JP. Francoia, H. Powell-Davies,
+JM Parrilla Gutierrez, P. Frei, J.S Manzano and L. Cronin, *ChemRxiv*, 2020
+
 - [Interview C&EN: Polymer could be a broader heparin blocker (by Louisa
 Dalton)](https://cen.acs.org/pharmaceuticals/drug-development/Polymer-broader-heparin-blocker/97/web/2019/06?utm_source=Staff&utm_medium=Social&utm_campaign=CEN)
 <p align="center">
