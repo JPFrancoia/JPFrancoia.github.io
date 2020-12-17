@@ -22,7 +22,7 @@ Candidate To Reverse Heparin-based Anticoagulants in Clinical
 Settings](https://pubs.acs.org/doi/abs/10.1021/acsmedchemlett.9b00090)
 B. Ourri, J.-P. Francoia, G. Monard, J.-C. Gris, J. Leclaire, and L. Vial,
 *ACS Med. Chem. Lett.*, 2019, **10**, 917. <font color="#159957">citations:
-3</font>  
+4</font>  
 <p align="center">
   <img src="images/protamine.jpg">
 </p>
