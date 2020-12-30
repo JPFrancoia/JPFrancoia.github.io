@@ -41,7 +41,7 @@ J.-P. Francoia, F. Perret, L. Vial and J. Leclaire *Chem. Sci.*, 2019, **10**,
 pharmaceuticals](http://science.sciencemag.org/content/359/6373/314)  
 P. J. Kitson, G. Marie, J.-P. Francoia, S. S. Zalesskiy, R. C. Sigerson,
 J. S. Mathieson and L. Cronin *Science*, 2018, **359**, 314. <font
-color="#159957">citations: 78</font>  
+color="#159957">citations: 79</font>  
 **Video:** [https://www.youtube.com/watch?v=0Uc76tzNmtM&feature=youtu.be](https://www.youtube.com/watch?v=0Uc76tzNmtM&feature=youtu.be)
 
 <p align="center">
@@ -50,7 +50,7 @@ color="#159957">citations: 78</font>
 
 - [Everything you always wanted to know about poly-*L*-lysine dendrigrafts (but were afraid to ask)](http://onlinelibrary.wiley.com/wol1/doi/10.1002/chem.201704147/abstract)  
 J.-P. Francoia and L. Vial, *Chem. Eur. J.*, 2017, **24**, 2806 - <font
-color="#159957">citations: 7</font>  
+color="#159957">citations: 8</font>  
 <p align="center">
   <img src="images/review.jpg">
 </p>
