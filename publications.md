@@ -11,6 +11,9 @@ Digitization using ChemSCAD](https://pubs.acs.org/doi/10.1021/acscentsci.0c01354
 W. Hou, A. Bubliauskas, P. J. Kitson, JP. Francoia, H. Powell-Davies,
 JM Parrilla Gutierrez, P. Frei, J.S Manzano and L. Cronin, *ACS Cent. Sci.*,
 2020, **DOI**:&nbsp;10.1021/acscentsci.0c01354 - <font color="#159957">open access</font>  
+<p align="center">
+  <img src="images/chemscad.gif">
+</p>
 
 - [Automatic Generation of 3D Printed Reactionware for Chemical Synthesis
 Digitization using ChemSCAD](https://chemrxiv.org/s/01c0cd28362e763c438f)
