@@ -78,14 +78,10 @@ will be more expensive.
 
 ## Assembly
 
-<p align="center">
-  <img width="700" src="{{ site.baseurl }}/images/nas/mobo.jpg">
-</p>
-
 I was told by one of my colleagues at work that the only tricky part of the
 assembly was to put the CPU and the fan on the board. And he was right. It
 took me several attempts to get the fan perfectly level on the CPU. But
-ultimately it wasn't too difficult. The fan comes with thermal paster already
+ultimately it wasn't too difficult. The fan comes with thermal paste already
 applied, so it only took me a couple of Youtube videos to get it right.
 
 <p align="center">
