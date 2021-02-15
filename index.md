@@ -25,6 +25,15 @@ this very special company.
 
 # Selected Publications
 
+- [Automatic Generation of 3D Printed Reactionware for Chemical Synthesis
+Digitization using ChemSCAD](https://pubs.acs.org/doi/10.1021/acscentsci.0c01354)
+W. Hou, A. Bubliauskas, P. J. Kitson, JP. Francoia, H. Powell-Davies,
+JM Parrilla Gutierrez, P. Frei, J.S Manzano and L. Cronin, *ACS Cent. Sci.*,
+2020, **DOI**:&nbsp;10.1021/acscentsci.0c01354 - <font color="#159957">open access</font>  
+<p align="center">
+  <img src="images/chemscad_demo.gif">
+</p>
+
 - [Digitization of multistep organic synthesis in reactionware for on-demand
 pharmaceuticals](http://science.sciencemag.org/content/359/6373/314)  
 P. J. Kitson, G. Marie, J.-P. Francoia, S. S. Zalesskiy, R. C. Sigerson,
