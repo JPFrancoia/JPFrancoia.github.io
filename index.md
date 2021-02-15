@@ -31,7 +31,7 @@ W. Hou, A. Bubliauskas, P. J. Kitson, JP. Francoia, H. Powell-Davies,
 JM Parrilla Gutierrez, P. Frei, J.S Manzano and L. Cronin, *ACS Cent. Sci.*,
 2020, **DOI**:&nbsp;10.1021/acscentsci.0c01354 - <font color="#159957">open access</font>  
 <p align="center">
-  <img src="images/chemscad_demo.gif">
+  <img width="350px" src="images/chemscad_demo.gif">
 </p>
 
 - [Digitization of multistep organic synthesis in reactionware for on-demand
