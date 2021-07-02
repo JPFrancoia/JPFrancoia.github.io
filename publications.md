@@ -47,7 +47,7 @@ J.-P. Francoia, F. Perret, L. Vial and J. Leclaire *Chem. Sci.*, 2019, **10**, 2
 - [Digitization of multistep organic synthesis in reactionware for on-demand
 pharmaceuticals](http://science.sciencemag.org/content/359/6373/314)  
 P. J. Kitson, G. Marie, J.-P. Francoia, S. S. Zalesskiy, R. C. Sigerson,
-J. S. Mathieson and L. Cronin *Science*, 2018, **359**, 314 - <font color="#159957">open access, citations: 115</font>  
+J. S. Mathieson and L. Cronin *Science*, 2018, **359**, 314 - <font color="#159957">open access, citations: 117</font>  
 **Video:** [https://www.youtube.com/watch?v=0Uc76tzNmtM&feature=youtu.be](https://www.youtube.com/watch?v=0Uc76tzNmtM)
 
 <p align="center">
@@ -73,7 +73,7 @@ J.-P. Francoia, J.-C Rossi, G. Monard and L. Vial, *J. Chem. Inf. Model.*,
 Derivatives in Physiological Conditions with a
 Dyn\[4\]arene](http://pubs.rsc.org/en/content/articlelanding/2016/cc/c6cc07713g)
 L. Vial, M. Dumartin, M. Donnier-Maréchal, F. Perret, J.-P. Francoia,
-J. Leclaire, *Chem. Commun.*, 2016, **52**, 14219 - <font color="#159957">citation: 9</font>  
+J. Leclaire, *Chem. Commun.*, 2016, **52**, 14219 - <font color="#159957">citation: 10</font>  
 <p align="center">
   <img src="images/chirality.gif">
 </p>
@@ -94,7 +94,7 @@ J.-P. Francoia and L. Vial, *Chem. Commun.*, 2015, **51**, 17544 - <font color="
 
 - [Monitoring Clinical Levels of Heparin in Human
 Blood Samples with an Indicator-Displacement Assay](http://pubs.rsc.org/en/Content/ArticleLanding/2015/CC/c4cc08563a)
-J.-P. Francoia, R. Pascal, and L. Vial, *Chem. Commun.*, 2015, **51**, 1953 - <font color="#159957">citations: 23</font>  
+J.-P. Francoia, R. Pascal, and L. Vial, *Chem. Commun.*, 2015, **51**, 1953 - <font color="#159957">citations: 24</font>  
 <p align="center">
   <img src="images/heparin.gif">
 </p>
@@ -111,7 +111,7 @@ T. H. Pham, T. Wixe, S. Dawaigher and K. Wärnmark, *ChemCatChem*, 2015,
 - [Multi-Technique Characterization of Poly-L-lysine Dendrigrafts–Cu(II)
 Complexes for Biocatalysis](http://onlinelibrary.wiley.com/doi/10.1002/mabi.201400341)
 J.-C. Rossi, B. Maret, K. Vidot, J.-P. Francoia, M. Cangiotti, S. Lucchi,
-C. Coppola, and M. F. Ottaviani, *Macromol. Biosci.*, 2015, **15**, 275 - <font color="#159957">citations: 10</font>  
+C. Coppola, and M. F. Ottaviani, *Macromol. Biosci.*, 2015, **15**, 275 - <font color="#159957">citations: 11</font>  
 <p align="center">
   <img src="images/chara.png">
 </p>
