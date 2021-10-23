@@ -10,7 +10,7 @@ layout: default
 Digitization using ChemSCAD](https://pubs.acs.org/doi/10.1021/acscentsci.0c01354)
 W. Hou, A. Bubliauskas, P. J. Kitson, J.-P. Francoia, H. Powell-Davies,
 JM Parrilla Gutierrez, P. Frei, J.S Manzano and L. Cronin, *ACS Cent. Sci.*,
-2020, **DOI**:&nbsp;10.1021/acscentsci.0c01354 - <font color="#159957">open access citations: 9</font>  
+2020, **DOI**:&nbsp;10.1021/acscentsci.0c01354 - <font color="#159957">open access citations: 10</font>  
 <p align="center">
   <img src="images/chemscad.gif">
 </p>
@@ -29,7 +29,7 @@ Dalton)](https://cen.acs.org/pharmaceuticals/drug-development/Polymer-broader-he
 - [Dendrigraft of Poly-*L*-lysine as a Promising Candidate To Reverse
 Heparin-based Anticoagulants in Clinical Settings](https://pubs.acs.org/doi/abs/10.1021/acsmedchemlett.9b00090)
 B. Ourri, J.-P. Francoia, G. Monard, J.-C. Gris, J. Leclaire, and L. Vial,
-*ACS Med. Chem. Lett.*, 2019, **10**, 917 -<font color="#159957">citations: 9</font>  
+*ACS Med. Chem. Lett.*, 2019, **10**, 917 -<font color="#159957">citations: 10</font>  
 <p align="center">
   <img src="images/protamine.jpg">
 </p>
@@ -47,7 +47,7 @@ J.-P. Francoia, F. Perret, L. Vial and J. Leclaire *Chem. Sci.*, 2019, **10**, 2
 - [Digitization of multistep organic synthesis in reactionware for on-demand
 pharmaceuticals](http://science.sciencemag.org/content/359/6373/314)  
 P. J. Kitson, G. Marie, J.-P. Francoia, S. S. Zalesskiy, R. C. Sigerson,
-J. S. Mathieson and L. Cronin *Science*, 2018, **359**, 314 - <font color="#159957">open access, citations: 133</font>  
+J. S. Mathieson and L. Cronin *Science*, 2018, **359**, 314 - <font color="#159957">open access, citations: 135</font>  
 **Video:** [https://www.youtube.com/watch?v=0Uc76tzNmtM&feature=youtu.be](https://www.youtube.com/watch?v=0Uc76tzNmtM)
 
 <p align="center">
