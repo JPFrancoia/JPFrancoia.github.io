@@ -106,7 +106,7 @@ Preorganization](http://onlinelibrary.wiley.com/doi/10.1002/cctc.201402726/full)
 E. Lindbäck, S. Cherraben, J.-P. Francoïa, E. Sheibani, B. Lukowski,
 A. Proñ, H. Norouzi-Arasi, K. Månsson, P. Bujalowski, A. Cederbalk,
 T. H. Pham, T. Wixe, S. Dawaigher and K. Wärnmark, *ChemCatChem*, 2015,
-**7**, 333 - <font color="#159957">citation: 1</font>  
+**7**, 333 - <font color="#159957">citation: 2</font>  
 
 - [Multi-Technique Characterization of Poly-L-lysine Dendrigrafts–Cu(II)
 Complexes for Biocatalysis](http://onlinelibrary.wiley.com/doi/10.1002/mabi.201400341)
