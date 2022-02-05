@@ -38,7 +38,7 @@ B. Ourri, J.-P. Francoia, G. Monard, J.-C. Gris, J. Leclaire, and L. Vial,
 binding](https://pubs.rsc.org/en/content/articlelanding/2019/sc/c8sc02966k)
 E. Jeamet, J. Septavaux, A. Héloin, M. Donnier-Maréchal, M. Dumartin,
 B. Ourri, P. K. Mandal, I. Huc, E. Bignon, E. Dumont, C. Morell,
-J.-P. Francoia, F. Perret, L. Vial and J. Leclaire *Chem. Sci.*, 2019, **10**, 277 - <font color="#159957">open access, citation: 6</font>  
+J.-P. Francoia, F. Perret, L. Vial and J. Leclaire *Chem. Sci.*, 2019, **10**, 277 - <font color="#159957">open access, citation: 8</font>  
 
 <p align="center">
   <img src="images/wet_and_lock.jpg">
@@ -56,7 +56,7 @@ J. S. Mathieson and L. Cronin *Science*, 2018, **359**, 314 - <font color="#1599
 
 - [Everything you always wanted to know about poly-*L*-lysine dendrigrafts
 (but were afraid to ask)](http://onlinelibrary.wiley.com/wol1/doi/10.1002/chem.201704147)
-J.-P. Francoia and L. Vial, *Chem. Eur. J.*, 2017, **24**, 2806 - <font color="#159957">citations: 16</font>  
+J.-P. Francoia and L. Vial, *Chem. Eur. J.*, 2017, **24**, 2806 - <font color="#159957">citations: 18</font>  
 <p align="center">
   <img src="images/review.jpg">
 </p>
@@ -87,7 +87,7 @@ J.-P. Francoia and L. Vial, *J. Chem. Educ*, 2016, **93**, 1137 - <font color="#
 
 - [A KISS (Keep It Simple, Sensor) Array for
 Glycosaminoglycans](http://pubs.rsc.org/en/content/articlelanding/2014/cc/c5cc07628e)
-J.-P. Francoia and L. Vial, *Chem. Commun.*, 2015, **51**, 17544 - <font color="#159957">citations: 13</font>  
+J.-P. Francoia and L. Vial, *Chem. Commun.*, 2015, **51**, 17544 - <font color="#159957">citations: 14</font>  
 <p align="center">
   <img src="images/kiss.gif">
 </p>
@@ -106,7 +106,7 @@ Preorganization](http://onlinelibrary.wiley.com/doi/10.1002/cctc.201402726/full)
 E. Lindbäck, S. Cherraben, J.-P. Francoïa, E. Sheibani, B. Lukowski,
 A. Proñ, H. Norouzi-Arasi, K. Månsson, P. Bujalowski, A. Cederbalk,
 T. H. Pham, T. Wixe, S. Dawaigher and K. Wärnmark, *ChemCatChem*, 2015,
-**7**, 333 - <font color="#159957">citation: 2</font>  
+**7**, 333 - <font color="#159957">citation: 3</font>  
 
 - [Multi-Technique Characterization of Poly-L-lysine Dendrigrafts–Cu(II)
 Complexes for Biocatalysis](http://onlinelibrary.wiley.com/doi/10.1002/mabi.201400341)
