@@ -10,7 +10,7 @@ layout: default
 Digitization using ChemSCAD](https://pubs.acs.org/doi/10.1021/acscentsci.0c01354)
 W. Hou, A. Bubliauskas, P. J. Kitson, J.-P. Francoia, H. Powell-Davies,
 JM Parrilla Gutierrez, P. Frei, J.S Manzano and L. Cronin, *ACS Cent. Sci.*,
-2020, **DOI**:&nbsp;10.1021/acscentsci.0c01354 - <font color="#159957">open access citations: 11</font>  
+2020, **DOI**:&nbsp;10.1021/acscentsci.0c01354 - <font color="#159957">open access, citations: 11</font>  
 <p align="center">
   <img src="images/chemscad.gif">
 </p>
@@ -29,7 +29,7 @@ Dalton)](https://cen.acs.org/pharmaceuticals/drug-development/Polymer-broader-he
 - [Dendrigraft of Poly-*L*-lysine as a Promising Candidate To Reverse
 Heparin-based Anticoagulants in Clinical Settings](https://pubs.acs.org/doi/abs/10.1021/acsmedchemlett.9b00090)
 B. Ourri, J.-P. Francoia, G. Monard, J.-C. Gris, J. Leclaire, and L. Vial,
-*ACS Med. Chem. Lett.*, 2019, **10**, 917 -<font color="#159957">citations: 10</font>  
+*ACS Med. Chem. Lett.*, 2019, **10**, 917 - <font color="#159957">citations: 10</font>  
 <p align="center">
   <img src="images/protamine.jpg">
 </p>
@@ -73,7 +73,7 @@ J.-P. Francoia, J.-C Rossi, G. Monard and L. Vial, *J. Chem. Inf. Model.*,
 Derivatives in Physiological Conditions with a
 Dyn\[4\]arene](http://pubs.rsc.org/en/content/articlelanding/2016/cc/c6cc07713g)
 L. Vial, M. Dumartin, M. Donnier-Maréchal, F. Perret, J.-P. Francoia,
-J. Leclaire, *Chem. Commun.*, 2016, **52**, 14219 - <font color="#159957">citation: 11</font>  
+J. Leclaire, *Chem. Commun.*, 2016, **52**, 14219 - <font color="#159957">citations: 11</font>  
 <p align="center">
   <img src="images/chirality.gif">
 </p>
@@ -106,7 +106,7 @@ Preorganization](http://onlinelibrary.wiley.com/doi/10.1002/cctc.201402726/full)
 E. Lindbäck, S. Cherraben, J.-P. Francoïa, E. Sheibani, B. Lukowski,
 A. Proñ, H. Norouzi-Arasi, K. Månsson, P. Bujalowski, A. Cederbalk,
 T. H. Pham, T. Wixe, S. Dawaigher and K. Wärnmark, *ChemCatChem*, 2015,
-**7**, 333 - <font color="#159957">citation: 3</font>  
+**7**, 333 - <font color="#159957">citations: 3</font>  
 
 - [Multi-Technique Characterization of Poly-L-lysine Dendrigrafts–Cu(II)
 Complexes for Biocatalysis](http://onlinelibrary.wiley.com/doi/10.1002/mabi.201400341)
