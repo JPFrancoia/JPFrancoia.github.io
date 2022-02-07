@@ -16,11 +16,13 @@ reactors.
 
 <p align="justify">
 In 2018, I decided to leave academia to join <a
-href="https://www.okra.ai/">Okra Technologies</a>, a dynamic start-up, as a
-data engineer. As OKRANs, we are building artificial intelligence analytics
-engines for healthcare, and we hope to improve human lives. My curiosity,
-open mind and coding skills (I code as a hobby!) made me a perfect fit for
-this very special company.
+href="https://www.okra.ai/">Okra Technologies</a>, a dynamic healthcare start-up, as a
+data engineer.
+</p>
+
+<p align="justify">
+In 2021, I joined <a href="https://www.babylonhealth.com/en-gb">Babylon
+Health</a> as a Software Engineer.
 </p>
 
 # Selected Publications
