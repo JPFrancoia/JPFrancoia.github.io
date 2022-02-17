@@ -7,23 +7,37 @@ layout: default
 # About me
 
 <p align="justify">
-After obtaining my PhD in 2016, I moved to Glasgow to join the group
+
+In <b>2021</b>, I joined <a href="https://www.babylonhealth.com/en-gb">Babylon
+Health</a> as a Software Engineer. I'm ensuring the high availability and
+quality of medical data to improve the output of Babylon's AI models. I'm
+also working on a set of microservices to validate the safety of these
+models. Once these models are considered safe - any healthcare environment is
+extremely regulated! - I deploy these models in production, where they will
+help improve the health of our patients.
+
+</p>
+
+<p align="justify">
+
+In <b>2018</b>, I decided to leave academia to join <a
+href="https://www.okra.ai/">Okra Technologies</a>, a dynamic healthcare
+start-up, as a data engineer. There, I built analytics engines for healthcare
+companies. My main responsibilities were the development of backend services
+and the development of Okra's data lake.
+
+</p>
+
+<p align="justify">
+
+After obtaining my PhD in <b>2016</b>, I moved to Glasgow to join the group
 of <a href="http://www.chem.gla.ac.uk/cronin">Prof. Lee Cronin</a> as a
 postdoctoral research associate. I was part of the "reactionware" team,
 which aims to digitize organic chemistry through, for example, 3D printed
 reactors.
+
 </p>
 
-<p align="justify">
-In 2018, I decided to leave academia to join <a
-href="https://www.okra.ai/">Okra Technologies</a>, a dynamic healthcare start-up, as a
-data engineer.
-</p>
-
-<p align="justify">
-In 2021, I joined <a href="https://www.babylonhealth.com/en-gb">Babylon
-Health</a> as a Software Engineer.
-</p>
 
 # Selected Publications
 
