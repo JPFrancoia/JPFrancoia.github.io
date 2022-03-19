@@ -10,7 +10,7 @@ layout: default
 Digitization using ChemSCAD](https://pubs.acs.org/doi/10.1021/acscentsci.0c01354)
 W. Hou, A. Bubliauskas, P. J. Kitson, J.-P. Francoia, H. Powell-Davies,
 JM Parrilla Gutierrez, P. Frei, J.S Manzano and L. Cronin, *ACS Cent. Sci.*,
-2020, **DOI**:&nbsp;10.1021/acscentsci.0c01354 - <font color="#159957">open access, citations: 11</font>  
+2020, **DOI**:&nbsp;10.1021/acscentsci.0c01354 - <font color="#159957">open access, citations: 13</font>  
 <p align="center">
   <img src="images/chemscad.gif">
 </p>
@@ -29,7 +29,7 @@ Dalton)](https://cen.acs.org/pharmaceuticals/drug-development/Polymer-broader-he
 - [Dendrigraft of Poly-*L*-lysine as a Promising Candidate To Reverse
 Heparin-based Anticoagulants in Clinical Settings](https://pubs.acs.org/doi/abs/10.1021/acsmedchemlett.9b00090)
 B. Ourri, J.-P. Francoia, G. Monard, J.-C. Gris, J. Leclaire, and L. Vial,
-*ACS Med. Chem. Lett.*, 2019, **10**, 917 - <font color="#159957">citations: 10</font>  
+*ACS Med. Chem. Lett.*, 2019, **10**, 917 - <font color="#159957">citations: 11</font>  
 <p align="center">
   <img src="images/protamine.jpg">
 </p>
@@ -47,7 +47,7 @@ J.-P. Francoia, F. Perret, L. Vial and J. Leclaire *Chem. Sci.*, 2019, **10**, 2
 - [Digitization of multistep organic synthesis in reactionware for on-demand
 pharmaceuticals](http://science.sciencemag.org/content/359/6373/314)  
 P. J. Kitson, G. Marie, J.-P. Francoia, S. S. Zalesskiy, R. C. Sigerson,
-J. S. Mathieson and L. Cronin *Science*, 2018, **359**, 314 - <font color="#159957">open access, citations: 137</font>  
+J. S. Mathieson and L. Cronin *Science*, 2018, **359**, 314 - <font color="#159957">open access, citations: 138</font>  
 **Video:** [https://www.youtube.com/watch?v=0Uc76tzNmtM&feature=youtu.be](https://www.youtube.com/watch?v=0Uc76tzNmtM)
 
 <p align="center">
@@ -94,7 +94,7 @@ J.-P. Francoia and L. Vial, *Chem. Commun.*, 2015, **51**, 17544 - <font color="
 
 - [Monitoring Clinical Levels of Heparin in Human
 Blood Samples with an Indicator-Displacement Assay](http://pubs.rsc.org/en/Content/ArticleLanding/2015/CC/c4cc08563a)
-J.-P. Francoia, R. Pascal, and L. Vial, *Chem. Commun.*, 2015, **51**, 1953 - <font color="#159957">citations: 24</font>  
+J.-P. Francoia, R. Pascal, and L. Vial, *Chem. Commun.*, 2015, **51**, 1953 - <font color="#159957">citations: 25</font>  
 <p align="center">
   <img src="images/heparin.gif">
 </p>
