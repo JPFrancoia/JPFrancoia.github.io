@@ -47,7 +47,7 @@ J.-P. Francoia, F. Perret, L. Vial and J. Leclaire *Chem. Sci.*, 2019, **10**, 2
 - [Digitization of multistep organic synthesis in reactionware for on-demand
 pharmaceuticals](http://science.sciencemag.org/content/359/6373/314)  
 P. J. Kitson, G. Marie, J.-P. Francoia, S. S. Zalesskiy, R. C. Sigerson,
-J. S. Mathieson and L. Cronin *Science*, 2018, **359**, 314 - <font color="#159957">open access, citations: 138</font>  
+J. S. Mathieson and L. Cronin *Science*, 2018, **359**, 314 - <font color="#159957">open access, citations: 139</font>  
 **Video:** [https://www.youtube.com/watch?v=0Uc76tzNmtM&feature=youtu.be](https://www.youtube.com/watch?v=0Uc76tzNmtM)
 
 <p align="center">
@@ -56,7 +56,7 @@ J. S. Mathieson and L. Cronin *Science*, 2018, **359**, 314 - <font color="#1599
 
 - [Everything you always wanted to know about poly-*L*-lysine dendrigrafts
 (but were afraid to ask)](http://onlinelibrary.wiley.com/wol1/doi/10.1002/chem.201704147)
-J.-P. Francoia and L. Vial, *Chem. Eur. J.*, 2017, **24**, 2806 - <font color="#159957">citations: 18</font>  
+J.-P. Francoia and L. Vial, *Chem. Eur. J.*, 2017, **24**, 2806 - <font color="#159957">citations: 19</font>  
 <p align="center">
   <img src="images/review.jpg">
 </p>
@@ -73,7 +73,7 @@ J.-P. Francoia, J.-C Rossi, G. Monard and L. Vial, *J. Chem. Inf. Model.*,
 Derivatives in Physiological Conditions with a
 Dyn\[4\]arene](http://pubs.rsc.org/en/content/articlelanding/2016/cc/c6cc07713g)
 L. Vial, M. Dumartin, M. Donnier-Maréchal, F. Perret, J.-P. Francoia,
-J. Leclaire, *Chem. Commun.*, 2016, **52**, 14219 - <font color="#159957">citations: 11</font>  
+J. Leclaire, *Chem. Commun.*, 2016, **52**, 14219 - <font color="#159957">citations: 12</font>  
 <p align="center">
   <img src="images/chirality.gif">
 </p>
