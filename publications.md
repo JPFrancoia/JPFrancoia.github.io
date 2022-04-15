@@ -10,7 +10,7 @@ layout: default
 Digitization using ChemSCAD](https://pubs.acs.org/doi/10.1021/acscentsci.0c01354)
 W. Hou, A. Bubliauskas, P. J. Kitson, J.-P. Francoia, H. Powell-Davies,
 JM Parrilla Gutierrez, P. Frei, J.S Manzano and L. Cronin, *ACS Cent. Sci.*,
-2020, **DOI**:&nbsp;10.1021/acscentsci.0c01354 - <font color="#159957">open access, citations: 13</font>  
+2020, **DOI**:&nbsp;10.1021/acscentsci.0c01354 - <font color="#159957">open access, citations: 14</font>  
 <p align="center">
   <img src="images/chemscad.gif">
 </p>
@@ -38,7 +38,7 @@ B. Ourri, J.-P. Francoia, G. Monard, J.-C. Gris, J. Leclaire, and L. Vial,
 binding](https://pubs.rsc.org/en/content/articlelanding/2019/sc/c8sc02966k)
 E. Jeamet, J. Septavaux, A. Héloin, M. Donnier-Maréchal, M. Dumartin,
 B. Ourri, P. K. Mandal, I. Huc, E. Bignon, E. Dumont, C. Morell,
-J.-P. Francoia, F. Perret, L. Vial and J. Leclaire *Chem. Sci.*, 2019, **10**, 277 - <font color="#159957">open access, citation: 8</font>  
+J.-P. Francoia, F. Perret, L. Vial and J. Leclaire *Chem. Sci.*, 2019, **10**, 277 - <font color="#159957">open access, citation: 9</font>  
 
 <p align="center">
   <img src="images/wet_and_lock.jpg">
