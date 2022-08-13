@@ -10,7 +10,7 @@ layout: default
 Digitization using ChemSCAD](https://pubs.acs.org/doi/10.1021/acscentsci.0c01354)
 W. Hou, A. Bubliauskas, P. J. Kitson, J.-P. Francoia, H. Powell-Davies,
 JM Parrilla Gutierrez, P. Frei, J.S Manzano and L. Cronin, *ACS Cent. Sci.*,
-2020, **DOI**:&nbsp;10.1021/acscentsci.0c01354 - <font color="#159957">open access, citations: 15</font>  
+2020, **DOI**:&nbsp;10.1021/acscentsci.0c01354 - <font color="#159957">open access, citations: 16</font>  
 <p align="center">
   <img src="images/chemscad.gif">
 </p>
@@ -47,7 +47,7 @@ J.-P. Francoia, F. Perret, L. Vial and J. Leclaire *Chem. Sci.*, 2019, **10**, 2
 - [Digitization of multistep organic synthesis in reactionware for on-demand
 pharmaceuticals](http://science.sciencemag.org/content/359/6373/314)  
 P. J. Kitson, G. Marie, J.-P. Francoia, S. S. Zalesskiy, R. C. Sigerson,
-J. S. Mathieson and L. Cronin *Science*, 2018, **359**, 314 - <font color="#159957">open access, citations: 148</font>  
+J. S. Mathieson and L. Cronin *Science*, 2018, **359**, 314 - <font color="#159957">open access, citations: 150</font>  
 **Video:** [https://www.youtube.com/watch?v=0Uc76tzNmtM&feature=youtu.be](https://www.youtube.com/watch?v=0Uc76tzNmtM)
 
 <p align="center">
@@ -80,7 +80,7 @@ J. Leclaire, *Chem. Commun.*, 2016, **52**, 14219 - <font color="#159957">citati
 
 - [ChemBrows: An Open-Source Application Software To Keep Up to Date with the
 Current Literature](http://pubs.acs.org/doi/abs/10.1021/acs.jchemed.6b00024)
-J.-P. Francoia and L. Vial, *J. Chem. Educ*, 2016, **93**, 1137 - <font color="#159957">open access, citation: 1</font>  
+J.-P. Francoia and L. Vial, *J. Chem. Educ*, 2016, **93**, 1137 - <font color="#159957">open access, citation: 2</font>  
 <p align="center">
   <img src="images/cb.gif">
 </p>
