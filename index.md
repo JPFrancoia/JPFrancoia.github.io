@@ -12,9 +12,13 @@ In <b>2021</b>, I joined <a href="https://www.babylonhealth.com/en-gb">Babylon
 Health</a> as a Software Engineer. I'm ensuring the high availability and
 quality of medical data to improve the output of Babylon's AI models. I'm
 also working on a set of microservices to validate the safety of these
-models. Once these models are considered safe - any healthcare environment is
-extremely regulated! - I deploy these models in production, where they will
-help improve the health of our patients.
+models. Once these models are considered safe - any healthcare environment
+is extremely regulated! - I deploy these models in production, where they
+will help improve the health of our patients. More recently, I joined the
+Site Reliability Engineering (SRE) team, as a senior software engineer.
+My responsibilities range from being on-call 24h a day to respond to incidents
+to maintaining Babylon's infrastructure. I also help developers scale their
+applications and make sure they work reliably in production.
 
 </p>
 
