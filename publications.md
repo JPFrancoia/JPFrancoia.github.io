@@ -10,7 +10,7 @@ layout: default
 Digitization using ChemSCAD](https://pubs.acs.org/doi/10.1021/acscentsci.0c01354)
 W. Hou, A. Bubliauskas, P. J. Kitson, J.-P. Francoia, H. Powell-Davies,
 JM Parrilla Gutierrez, P. Frei, J.S Manzano and L. Cronin, *ACS Cent. Sci.*,
-2020, **DOI**:&nbsp;10.1021/acscentsci.0c01354 - <font color="#159957">open access, citations: 16</font>  
+2020, **DOI**:&nbsp;10.1021/acscentsci.0c01354 - <font color="#159957">open access, citations: 20</font>  
 <p align="center">
   <img src="images/chemscad.gif">
 </p>
@@ -47,7 +47,7 @@ J.-P. Francoia, F. Perret, L. Vial and J. Leclaire *Chem. Sci.*, 2019, **10**, 2
 - [Digitization of multistep organic synthesis in reactionware for on-demand
 pharmaceuticals](http://science.sciencemag.org/content/359/6373/314)  
 P. J. Kitson, G. Marie, J.-P. Francoia, S. S. Zalesskiy, R. C. Sigerson,
-J. S. Mathieson and L. Cronin *Science*, 2018, **359**, 314 - <font color="#159957">open access, citations: 151</font>  
+J. S. Mathieson and L. Cronin *Science*, 2018, **359**, 314 - <font color="#159957">open access, citations: 157</font>  
 **Video:** [https://www.youtube.com/watch?v=0Uc76tzNmtM&feature=youtu.be](https://www.youtube.com/watch?v=0Uc76tzNmtM)
 
 <p align="center">
