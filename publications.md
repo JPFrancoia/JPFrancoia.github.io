@@ -10,7 +10,7 @@ layout: default
 Digitization using ChemSCAD](https://pubs.acs.org/doi/10.1021/acscentsci.0c01354)
 W. Hou, A. Bubliauskas, P. J. Kitson, J.-P. Francoia, H. Powell-Davies,
 JM Parrilla Gutierrez, P. Frei, J.S Manzano and L. Cronin, *ACS Cent. Sci.*,
-2020, **DOI**:&nbsp;10.1021/acscentsci.0c01354 - <font color="#159957">open access, citations: 20</font>  
+2020, **DOI**:&nbsp;10.1021/acscentsci.0c01354 - <font color="#159957">open access, citations: 22</font>  
 <p align="center">
   <img src="images/chemscad.gif">
 </p>
@@ -56,7 +56,7 @@ J. S. Mathieson and L. Cronin *Science*, 2018, **359**, 314 - <font color="#1599
 
 - [Everything you always wanted to know about poly-*L*-lysine dendrigrafts
 (but were afraid to ask)](http://onlinelibrary.wiley.com/wol1/doi/10.1002/chem.201704147)
-J.-P. Francoia and L. Vial, *Chem. Eur. J.*, 2017, **24**, 2806 - <font color="#159957">citations: 20</font>  
+J.-P. Francoia and L. Vial, *Chem. Eur. J.*, 2017, **24**, 2806 - <font color="#159957">citations: 21</font>  
 <p align="center">
   <img src="images/review.jpg">
 </p>
