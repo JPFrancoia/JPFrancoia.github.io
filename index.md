@@ -14,11 +14,12 @@ quality of medical data to improve the output of Babylon's AI models. I'm
 also working on a set of microservices to validate the safety of these
 models. Once these models are considered safe - any healthcare environment
 is extremely regulated! - I deploy these models in production, where they
-will help improve the health of our patients. More recently, I joined the
-Site Reliability Engineering (SRE) team, as a senior software engineer.
-My responsibilities range from being on-call 24h a day to respond to incidents
-to maintaining Babylon's infrastructure. I also help developers scale their
-applications and make sure they work reliably in production.
+will help improve the health of our patients.<br/>
+More recently, I joined the <b>Site Reliability Engineering</b> (SRE) team, as a
+senior software engineer.  My responsibilities range from being on-call 24h a
+day to respond to incidents to maintaining Babylon's infrastructure. I also
+help developers scale their applications and make sure they work reliably
+in production.
 
 </p>
 
