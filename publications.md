@@ -56,7 +56,7 @@ J. S. Mathieson and L. Cronin *Science*, 2018, **359**, 314 - <font color="#1599
 
 - [Everything you always wanted to know about poly-*L*-lysine dendrigrafts
 (but were afraid to ask)](http://onlinelibrary.wiley.com/wol1/doi/10.1002/chem.201704147)
-J.-P. Francoia and L. Vial, *Chem. Eur. J.*, 2017, **24**, 2806 - <font color="#159957">citations: 21</font>  
+J.-P. Francoia and L. Vial, *Chem. Eur. J.*, 2017, **24**, 2806 - <font color="#159957">citations: 22</font>  
 <p align="center">
   <img src="images/review.jpg">
 </p>
@@ -94,7 +94,7 @@ J.-P. Francoia and L. Vial, *Chem. Commun.*, 2015, **51**, 17544 - <font color="
 
 - [Monitoring Clinical Levels of Heparin in Human
 Blood Samples with an Indicator-Displacement Assay](http://pubs.rsc.org/en/Content/ArticleLanding/2015/CC/c4cc08563a)
-J.-P. Francoia, R. Pascal, and L. Vial, *Chem. Commun.*, 2015, **51**, 1953 - <font color="#159957">citations: 26</font>  
+J.-P. Francoia, R. Pascal, and L. Vial, *Chem. Commun.*, 2015, **51**, 1953 - <font color="#159957">citations: 27</font>  
 <p align="center">
   <img src="images/heparin.gif">
 </p>
