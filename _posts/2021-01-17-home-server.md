@@ -16,6 +16,13 @@ so, but I never found the time. I finally found the time, thanks to COVID-19
 and multiple lock downs...
 
 
+**EDIT 2 YEARS LATER**: I have been running the setup described below for
+two years now and I am extremely satisfied with its stability. The RAID has
+been behaving exactly as expected and I never had to do any maintenance on
+it (apart from monitoring the healh of the disks with SMART). The server
+just requires the occasional Arch update, but that's about it.
+
+
 ## Requirements
 
 My primary goal was to build a NAS to reliably store media (movies, series,
