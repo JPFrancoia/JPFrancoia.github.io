@@ -20,10 +20,10 @@ and multiple lock downs...
 
 My primary goal was to build a NAS to reliably store media (movies, series,
 photos) and backups (including large files like virtual machines). Until
-now, I was storing my multiple TBs of data on several disks. It was hard
-to track which content was on which disk, and of course I suffered from
-several drives failures over the years, each time loosing a somewhat
-important amount of data. It was time to move my data to a NAS.  
+now, I was storing my multiple TBs of data on several disks. It was hard to
+track which content was on which disk, and of course I suffered from several
+drives failures over the years, each time losing a somewhat important amount
+of data. It was time to move my data to a NAS.
 
 I was also interested in having this NAS accessible from several devices, in
 particular from my smart TV: it's a small Raspberry Pi 3 running OSMC. Having
@@ -120,11 +120,10 @@ For the Linux distribution that I would run on this server, I chose Archlinux.
 It might seem like a weird choice for a server, but Arch never failed me
 and that's what I run everyday on my laptop. Let's keep things simple.  
 
-I installed Arch with a bootable USB key. Apart from having to move the huge
-case close to the router to connect it through Ethernet, this wasn't a
-difficult part for me. Once Archlinux was installed, I set up a SSH server, put
-my public key on it, and moved the case into its final location (on top of a
-closet...)
+I installed Arch with a bootable USB key. Apart from having to move the
+huge case close to the router to connect it through Ethernet, this wasn't a
+difficult part for me. Once Archlinux was installed, I set up a SSH server,
+put my public key on it, and moved the case into its final location.
 
 
 ## Setting up the RAID
