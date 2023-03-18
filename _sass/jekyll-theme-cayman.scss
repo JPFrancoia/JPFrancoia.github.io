@@ -1,6 +1,7 @@
 @import "normalize";
-@import "rouge-github";
+//@import "rouge-github";
 @import "variables";
+@import "monokai";
 
 @mixin large {
   @media screen and (min-width: #{$large-breakpoint}) {
@@ -63,8 +64,8 @@ a.post_title_a {
 a.button {
   width: 200px;
   background-color: white;
-  border: $code-text-color solid;
-  color: $code-text-color;
+  border: #567482 solid;
+  color: #567482;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
