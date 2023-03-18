@@ -12,13 +12,13 @@ to a Postgres database."
 
 # Authentication workflow with SSO
 
-In this didactic article, we'll implement a basich authentication workflow
+In this didactic article, we'll implement a basic authentication workflow
 with a Single Sign-On (SSO) provider. I chose Facebook, but it should
 not be difficult to port the code to Google or Github. We'll use the
 information returned by the SSO provider to register a user into a database.
 The website/app will be written in Go with the Gin framework. In another
-article, we'll see how we can implement an authorization mechanism based on JWT
-tokens once our users are authenticated.
+article, we'll see how we can implement an authorization mechanism based
+on JWT tokens once our users are authenticated.
 
 To summarize we will:
 
@@ -226,7 +226,7 @@ identity check to Facebook. In a nutshell, here is how it works:
 - from your app, the user clicks a link that redirects them to Facebook
 - Facebook asks the user if they want to give some permissions to *your* app
     (e.g: access to their name, email, etc)
-- if the user agrees, Facebook calls a pre-determined endpoint of your app and
+- if the user agrees, Facebook calls a predetermined endpoint of your app and
     attaches the user's information to the call
 - your app processes the user's information and creates a user record in the
     database
@@ -291,7 +291,7 @@ func Login(c *gin.Context) {
 ```
 
 You will notice that the `init()` function is taking three parameters from
-the envronment. This is a good development practice, because this kind
+the environment. This is a good development practice, because this kind
 of variables are likely to change between deployments (like dev, staging
 or production) and it allows us to decouple the code from the config, in
 accordance to the [Twelve-Factor App principles]("https://12factor.net/").
@@ -344,7 +344,8 @@ the Facebook provider.
 ```
 
 When Facebook is done setting permissions, it will call our `/auth/callback`
-endpoint. Here is the function and the datastructures that will take care of the query:
+endpoint. Here is the function and the data structures that will take care
+of the query:
 
 ```go
 import (
@@ -540,9 +541,9 @@ Indexes:
 
 ### Data registry
 
-I like using an an abstraction layer to interact with databases, and most
+I like using an abstraction layer to interact with databases, and most
 of the time I call it the **data registry**. It's responsible for dealing
-with the database. Please note that it's not a re-implementation of an
+with the database. Please note that it's not a reimplementation of an
 ORM, it's just an abstraction layer that decouples the application from
 any database logic. The rest of the application sends *entities* (like our
 `User` struct above) to the data registry, and the registry takes care of
@@ -709,9 +710,9 @@ Looking into the database, we can see that a new user is now registered:
 ## Conclusion
 
 In this article, we saw how to create an authentication mechanism with
-SSO end-to-end. This will allow you to register/login users into your app
+SSO end to end. This will allow you to register/login users into your app
 without making them fill a form and create yet another password. But this
 is just a first step, because we haven't seen the *authorization* part. In
 a future article we'll see how we can create JWT tokens for our users, which
-will allow us to validate the idendity of a user throughout their session on
+will allow us to validate the identity of a user throughout their session on
 your app. We will also be able to restrict some pages to unregistered users.
