@@ -47,7 +47,7 @@ J.-P. Francoia, F. Perret, L. Vial and J. Leclaire *Chem. Sci.*, 2019, **10**, 2
 - [Digitization of multistep organic synthesis in reactionware for on-demand
 pharmaceuticals](http://science.sciencemag.org/content/359/6373/314)  
 P. J. Kitson, G. Marie, J.-P. Francoia, S. S. Zalesskiy, R. C. Sigerson,
-J. S. Mathieson and L. Cronin *Science*, 2018, **359**, 314 - <font color="#159957">open access, citations: 161</font>  
+J. S. Mathieson and L. Cronin *Science*, 2018, **359**, 314 - <font color="#159957">open access, citations: 162</font>  
 **Video:** [https://www.youtube.com/watch?v=0Uc76tzNmtM&feature=youtu.be](https://www.youtube.com/watch?v=0Uc76tzNmtM)
 
 <p align="center">
@@ -64,7 +64,7 @@ J.-P. Francoia and L. Vial, *Chem. Eur. J.*, 2017, **24**, 2806 - <font color="#
 - [Digitizing Poly-*L*-Lysine Dendrigrafts: from Experimental Data to
 Molecular Dynamics Simulations](http://pubs.acs.org/doi/pdf/10.1021/acs.jcim.7b00258)
 J.-P. Francoia, J.-C Rossi, G. Monard and L. Vial, *J. Chem. Inf. Model.*,
-2017, **57**, 2173 - <font color="#159957">citations:&nbsp;14</font>  
+2017, **57**, 2173 - <font color="#159957">citations:&nbsp;15</font>  
 <p align="center">
   <img src="images/digitizing.gif">
 </p>
