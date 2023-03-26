@@ -391,7 +391,7 @@ func (gothUser GothUser) ToUser() User {
 At this point the `AuthCallback` function produces a `ourUser`
 data structure that we can write to the database. I'm used to put
 the data structures in the `entities` module (because I like the [clean
-architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)),
+architecture](https://jpfrancoia.github.io/2023/03/20/clean-architecture-python.html)),
 but you can keep them in `auth.go` if you want.
 
 

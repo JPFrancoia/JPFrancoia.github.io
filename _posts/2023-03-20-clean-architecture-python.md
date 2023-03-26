@@ -348,7 +348,7 @@ def fetch_spells2() -> list[Spells]:
 This is because `fetch_spells2` is *really hard* to unit test properly. This
 function performs some I/O (it queries the spells API) and then processes
 the response. If you wanted to unit test it properly you would have no
-choice but to [mock]("https://en.wikipedia.org/wiki/Mock_object") the I/O
+choice but to [mock](https://en.wikipedia.org/wiki/Mock_object) the I/O
 part. With the first approach, the processing of the json is completely
 decoupled from the I/O which makes the function easy to unit test:
 
