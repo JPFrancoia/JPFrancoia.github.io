@@ -26,8 +26,7 @@ To summarize we will:
 - Add users to our database
 
 
-The final state of the code is available here:
-[https://github.com/JPFrancoia/authentication_example]("https://github.com/JPFrancoia/authentication_example")
+The final state of the code is available [here]("https://github.com/JPFrancoia/authentication_example").
 
 
 ## Login and index pages
