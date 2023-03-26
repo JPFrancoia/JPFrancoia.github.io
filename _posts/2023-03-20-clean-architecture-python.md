@@ -17,7 +17,7 @@ is a way to structure code at the application level (it's more
 global than just a design pattern for example). Ultimately,
 the goal is to improve the separation of concerns between the
 components of a software and reduce coupling. In his original [blog
-post]("https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html"),
+post](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html),
 Robert C. Martin (aka Uncle Bob) says the Clean architecture produces
 systems that are:
 
@@ -44,7 +44,7 @@ The diagram below is a visual representation of the concept:
 </p>
 
 
-The final state of the code is available [here]("https://github.com/JPFrancoia/clean_architecture_example").
+The final state of the code is available [here](https://github.com/JPFrancoia/clean_architecture_example).
 
 ## How does it work?
 
@@ -138,7 +138,7 @@ The original blog post talks about one rule that holds all the layers together:
 > includes, functions, classes, variables, or any other named software entity.
 
 In practice, I prefer this rule (from [this
-book]("https://leanpub.com/clean-architectures-in-python")), because it's
+book](https://leanpub.com/clean-architectures-in-python)), because it's
 simpler to conceptualize:
 
 > Talk inwards with simple structures, talk outwards through interfaces
@@ -160,9 +160,9 @@ example...Collecting and storing spells from Harry Potter!
 </p>
 
 We'll use the freely accessible
-[WizardWorldAPI]("https://github.com/MossPiglets/WizardWorldAPI"). The
+[WizardWorldAPI](https://github.com/MossPiglets/WizardWorldAPI). The
 swagger page (a page documenting the API) is accessible
-[here]("https://wizard-world-api.herokuapp.com/swagger/index.html").
+[here](https://wizard-world-api.herokuapp.com/swagger/index.html).
 
 
 ### Building the `Spell` entity
@@ -216,7 +216,7 @@ debatable choice with pros and cons, but I like it because it's immutable,
 simple, and it's part of the standard library. A `dataclass` is also a valid
 choice when it comes to the standard library, especially if you need to mutate
 the entity after its creation, for some reason (even though I'd recommend
-avoiding this situation). Using [pydantic]("https://docs.pydantic.dev/")
+avoiding this situation). Using [pydantic](https://docs.pydantic.dev/)
 to model entities is another good option - especially because it provides
 input validation - but it isn't part of the standard library. What you really
 shouldn't do is define your own, plain class for `Spell` because you won't
@@ -394,7 +394,7 @@ And frankly, I wouldn't write more unit tests than that for the client:
 The data registry is also part of the Gateways layer. It will interact with
 the database, and it will allow us to store and query the spells. Because
 using a *real* database isn't the purpose of this article, we'll use
-[tinydb]("https://tinydb.readthedocs.io/en/latest/getting-started.html"). This
+[tinydb](https://tinydb.readthedocs.io/en/latest/getting-started.html). This
 library uses local json files to simulate a NoSQL document database.
 
 

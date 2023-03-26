@@ -26,7 +26,7 @@ To summarize we will:
 - Add users to our database
 
 
-The final state of the code is available [here]("https://github.com/JPFrancoia/authentication_example").
+The final state of the code is available [here](https://github.com/JPFrancoia/authentication_example).
 
 
 ## Login and index pages
@@ -234,10 +234,10 @@ For the first step, you app's backend will have to authenticate
 with Facebook.  You'll have to register your app with Facebook and
 obtain a *client ID* and a *client secret*. The general steps are
 described below but you can find more information [in the official
-documentation]("https://developers.facebook.com/docs/development/create-an-app/").
+documentation](https://developers.facebook.com/docs/development/create-an-app/).
 
 - first, you'll need to create an app. Head to [https://developers.facebook.com/apps/
-    ]("https://developers.facebook.com/apps/")
+    ](https://developers.facebook.com/apps/)
 - click on the "**Create app**" button and follow the guided steps until your app is created
 - choose "**Consumer**" for the type of the app
 - head to "**Settings > Basic**" on the left pane, And write down the App Id and
@@ -293,10 +293,10 @@ You will notice that the `init()` function is taking three parameters from
 the environment. This is a good development practice, because this kind
 of variables are likely to change between deployments (like dev, staging
 or production) and it allows us to decouple the code from the config, in
-accordance to the [Twelve-Factor App principles]("https://12factor.net/").
+accordance to the [Twelve-Factor App principles](https://12factor.net/).
 You can set these variables for your session by running the commands
 below, or you can use a `.envrc` file (I also recommend having a look at
-[direnv]("https://direnv.net/")).
+[direnv](https://direnv.net/)).
 
 ```
 export FACEBOOK_CLIENT_ID=YOUR_CLIENT_ID
@@ -391,7 +391,7 @@ func (gothUser GothUser) ToUser() User {
 At this point the `AuthCallback` function produces a `ourUser`
 data structure that we can write to the database. I'm used to put
 the data structures in the `entities` module (because I like the [clean
-architecture]("https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html")),
+architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)),
 but you can keep them in `auth.go` if you want.
 
 
@@ -449,12 +449,12 @@ CONTAINER ID   IMAGE                    COMMAND                  CREATED        
 Before we can write anything into the database, we'll
 need to create the `users` table in the database. We could
 do that manually, but it's a better practice to use [schemas
-migrations]("https://en.wikipedia.org/wiki/Schema_migration"). The idea
+migrations](https://en.wikipedia.org/wiki/Schema_migration). The idea
 is simple: every time you need to change the schema of your database, you
 create a migration `up` and a migration `down`. The `up` migration will
 bring the schema to its new state, and the `down` will revert the changes
 (useful if anything goes wrong). To manage these migrations, I like to use
-[dbmate]("https://github.com/amacneil/dbmate"). It's a super simple tool,
+[dbmate](https://github.com/amacneil/dbmate). It's a super simple tool,
 language agnostic, and it's not coupled with any ORM (as opposed to tools
 like SQLAlchemy). Let's create our migrations:
 
