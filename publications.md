@@ -29,7 +29,7 @@ Dalton)](https://cen.acs.org/pharmaceuticals/drug-development/Polymer-broader-he
 - [Dendrigraft of Poly-*L*-lysine as a Promising Candidate To Reverse
 Heparin-based Anticoagulants in Clinical Settings](https://pubs.acs.org/doi/abs/10.1021/acsmedchemlett.9b00090)
 B. Ourri, J.-P. Francoia, G. Monard, J.-C. Gris, J. Leclaire, and L. Vial,
-*ACS Med. Chem. Lett.*, 2019, **10**, 917 - <font color="#159957">citations: 16</font>  
+*ACS Med. Chem. Lett.*, 2019, **10**, 917 - <font color="#159957">citations: 17</font>  
 <p align="center">
   <img src="images/protamine.jpg">
 </p>
@@ -47,7 +47,7 @@ J.-P. Francoia, F. Perret, L. Vial and J. Leclaire *Chem. Sci.*, 2019, **10**, 2
 - [Digitization of multistep organic synthesis in reactionware for on-demand
 pharmaceuticals](http://science.sciencemag.org/content/359/6373/314)  
 P. J. Kitson, G. Marie, J.-P. Francoia, S. S. Zalesskiy, R. C. Sigerson,
-J. S. Mathieson and L. Cronin *Science*, 2018, **359**, 314 - <font color="#159957">open access, citations: 162</font>  
+J. S. Mathieson and L. Cronin *Science*, 2018, **359**, 314 - <font color="#159957">open access, citations: 163</font>  
 **Video:** [https://www.youtube.com/watch?v=0Uc76tzNmtM&feature=youtu.be](https://www.youtube.com/watch?v=0Uc76tzNmtM)
 
 <p align="center">
@@ -56,7 +56,7 @@ J. S. Mathieson and L. Cronin *Science*, 2018, **359**, 314 - <font color="#1599
 
 - [Everything you always wanted to know about poly-*L*-lysine dendrigrafts
 (but were afraid to ask)](http://onlinelibrary.wiley.com/wol1/doi/10.1002/chem.201704147)
-J.-P. Francoia and L. Vial, *Chem. Eur. J.*, 2017, **24**, 2806 - <font color="#159957">citations: 24</font>  
+J.-P. Francoia and L. Vial, *Chem. Eur. J.*, 2017, **24**, 2806 - <font color="#159957">citations: 26</font>  
 <p align="center">
   <img src="images/review.jpg">
 </p>
