@@ -10,7 +10,7 @@ layout: default
 Digitization using ChemSCAD](https://pubs.acs.org/doi/10.1021/acscentsci.0c01354)
 W. Hou, A. Bubliauskas, P. J. Kitson, J.-P. Francoia, H. Powell-Davies,
 JM Parrilla Gutierrez, P. Frei, J.S Manzano and L. Cronin, *ACS Cent. Sci.*,
-2020, **DOI**:&nbsp;10.1021/acscentsci.0c01354 - <font color="#159957">open access, citations: 26</font>  
+2020, **DOI**:&nbsp;10.1021/acscentsci.0c01354 - <font color="#159957">open access, citations: 29</font>  
 <p align="center">
   <img src="images/chemscad.gif">
 </p>
@@ -38,7 +38,7 @@ B. Ourri, J.-P. Francoia, G. Monard, J.-C. Gris, J. Leclaire, and L. Vial,
 binding](https://pubs.rsc.org/en/content/articlelanding/2019/sc/c8sc02966k)
 E. Jeamet, J. Septavaux, A. Héloin, M. Donnier-Maréchal, M. Dumartin,
 B. Ourri, P. K. Mandal, I. Huc, E. Bignon, E. Dumont, C. Morell,
-J.-P. Francoia, F. Perret, L. Vial and J. Leclaire *Chem. Sci.*, 2019, **10**, 277 - <font color="#159957">open access, citation: 10</font>  
+J.-P. Francoia, F. Perret, L. Vial and J. Leclaire *Chem. Sci.*, 2019, **10**, 277 - <font color="#159957">open access, citation: 11</font>  
 
 <p align="center">
   <img src="images/wet_and_lock.jpg">
@@ -47,7 +47,7 @@ J.-P. Francoia, F. Perret, L. Vial and J. Leclaire *Chem. Sci.*, 2019, **10**, 2
 - [Digitization of multistep organic synthesis in reactionware for on-demand
 pharmaceuticals](http://science.sciencemag.org/content/359/6373/314)  
 P. J. Kitson, G. Marie, J.-P. Francoia, S. S. Zalesskiy, R. C. Sigerson,
-J. S. Mathieson and L. Cronin *Science*, 2018, **359**, 314 - <font color="#159957">open access, citations: 168</font>  
+J. S. Mathieson and L. Cronin *Science*, 2018, **359**, 314 - <font color="#159957">open access, citations: 175</font>  
 **Video:** [https://www.youtube.com/watch?v=0Uc76tzNmtM&feature=youtu.be](https://www.youtube.com/watch?v=0Uc76tzNmtM)
 
 <p align="center">
@@ -87,7 +87,7 @@ J.-P. Francoia and L. Vial, *J. Chem. Educ*, 2016, **93**, 1137 - <font color="#
 
 - [A KISS (Keep It Simple, Sensor) Array for
 Glycosaminoglycans](http://pubs.rsc.org/en/content/articlelanding/2014/cc/c5cc07628e)
-J.-P. Francoia and L. Vial, *Chem. Commun.*, 2015, **51**, 17544 - <font color="#159957">citations: 14</font>  
+J.-P. Francoia and L. Vial, *Chem. Commun.*, 2015, **51**, 17544 - <font color="#159957">citations: 15</font>  
 <p align="center">
   <img src="images/kiss.gif">
 </p>
