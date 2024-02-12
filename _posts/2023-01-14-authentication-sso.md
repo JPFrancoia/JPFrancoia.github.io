@@ -28,6 +28,13 @@ To summarize we will:
 
 The final state of the code is available [here](https://github.com/JPFrancoia/authentication_example).
 
+**NOTE**: this is a toy example to get familiar with authentication and JWT
+tokens. I do not recommend using this setup in production. For production
+applications, I would always recommend to not implement authentication
+yourself, it's not worth your time / the risk. [Auth0](https://auth0.com/ "")
+provides a generous free tier and a solid SDK that should allow you to get
+started quickly and securely.
+
 
 ## Login and index pages
 
