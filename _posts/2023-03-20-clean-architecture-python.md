@@ -294,7 +294,7 @@ our case the client code can be quite simple:
 `client.py`:
 
 ```python
-from typing import Any
+from typing import Any, Dict, List, Union
 import requests
 
 from .entities import Spell
