@@ -299,9 +299,8 @@ import requests
 
 from .entities import Spell
 
-# json data can't really be typed, but use this alias if you want to convey
-# that some data is json
-JSON = Any
+# Use mypy recursive typing
+JSON = Union[Dict[str, "JSON"], List["JSON"], str, int, float, bool, None]
 
 BASE_URL = "https://wizard-world-api.herokuapp.com"
 
