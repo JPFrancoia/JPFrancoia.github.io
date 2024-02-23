@@ -16,10 +16,7 @@ In this didactic article, we'll implement a basic authentication workflow
 with a Single Sign-On (SSO) provider. I chose Facebook, but it should
 not be difficult to port the code to Google or Github. We'll use the
 information returned by the SSO provider to register a user into a database.
-The website/app will be written in Go with the Gin framework. In another
-article, we'll see how we can implement an authorization mechanism based
-on JWT tokens once our users are authenticated.
-
+The website/app will be written in Go with the Gin framework.
 To summarize we will:
 
 - Register users with a SSO provider (no form!)
@@ -31,7 +28,7 @@ The final state of the code is available [here](https://github.com/JPFrancoia/au
 **NOTE**: this is a toy example to get familiar with authentication and JWT
 tokens. I do not recommend using this setup in production. For production
 applications, I would always recommend to not implement authentication
-yourself, it's not worth your time / the risk. [Auth0](https://auth0.com/ "")
+yourself, it's not worth your time / the risk. [Auth0](https://auth0.com/)
 provides a generous free tier and a solid SDK that should allow you to get
 started quickly and securely.
 
