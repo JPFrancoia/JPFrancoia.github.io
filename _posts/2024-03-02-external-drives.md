@@ -97,8 +97,8 @@ what I was expecting. Let's try with another USB-C cable:
   <img width="500" src="{{ site.baseurl }}/images/disk/second_cable.png">
 </p>
 
-That's more in line with what I expected! It turns out a cable is not just
-like any other cable...I had the same experience with an Ethernet cable once:
-I thought my internet connection was bad, but it turned out it was just
-a low quality Ethernet cable (they actually come in different categories,
-from 1 to 8, and are rated for different speeds).
+That's better! It turns out a cable is not just like any other cable...I
+had the same experience with an Ethernet cable once: I thought my internet
+connection was bad, but it turned out it was just a low quality Ethernet
+cable (they actually come in different categories, from 1 to 8, and are
+rated for different speeds).
