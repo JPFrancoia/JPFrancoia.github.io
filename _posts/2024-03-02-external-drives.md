@@ -5,7 +5,7 @@ image: disk_thumbnail.jpg
 
 excerpt: "Let's see how we can get more for less! Commercial external hard
 drives are a bit of a scam. We'll discuss how we can build better hard drives
-for cheaper"
+for cheaper."
 
 ---
 
