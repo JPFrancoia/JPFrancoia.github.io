@@ -8,6 +8,26 @@ layout: default
 
 <p align="justify">
 
+After obtaining my PhD in <b>2016</b>, I moved to Glasgow to join the group
+of <a href="http://www.chem.gla.ac.uk/cronin">Prof. Lee Cronin</a> as a
+postdoctoral research associate. I was part of the "reactionware" team,
+which aims to digitize organic chemistry through, for example, 3D printed
+reactors.
+
+</p>
+
+<p align="justify">
+
+In <b>2018</b>, I decided to leave academia to join <a
+href="https://www.okra.ai/">Okra Technologies</a>, a dynamic healthcare
+start-up, as a data engineer. There, I built analytics engines for healthcare
+companies. My main responsibilities were the development of backend services
+and the development of Okra's data lake.
+
+</p>
+
+<p align="justify">
+
 In <b>2021</b>, I joined <a href="https://www.babylonhealth.com/en-gb">Babylon
 Health</a> as a Software Engineer. I'm ensuring the high availability and
 quality of medical data to improve the output of Babylon's AI models. I'm
@@ -25,21 +45,11 @@ in production.
 
 <p align="justify">
 
-In <b>2018</b>, I decided to leave academia to join <a
-href="https://www.okra.ai/">Okra Technologies</a>, a dynamic healthcare
-start-up, as a data engineer. There, I built analytics engines for healthcare
-companies. My main responsibilities were the development of backend services
-and the development of Okra's data lake.
-
-</p>
-
-<p align="justify">
-
-After obtaining my PhD in <b>2016</b>, I moved to Glasgow to join the group
-of <a href="http://www.chem.gla.ac.uk/cronin">Prof. Lee Cronin</a> as a
-postdoctoral research associate. I was part of the "reactionware" team,
-which aims to digitize organic chemistry through, for example, 3D printed
-reactors.
+In <b>2023</b>, I left the healthcare field behind to join the Telco world:
+I joined <a href="https://news.virginmediao2.co.uk/">Virgin Media O2</a>. I'm
+still a software engineer, and I'm now leading a small team tasked with
+creating a "fault platform". This platform aims to detect and remediate
+faults on VMO2's network.
 
 </p>
 
