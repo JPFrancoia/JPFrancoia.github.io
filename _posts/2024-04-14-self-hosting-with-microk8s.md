@@ -61,7 +61,7 @@ My Kubernetes cluster is composed of 2 nodes:
 post](https://jpfrancoia.github.io/2021/01/17/home-server.html)
 - A second hand Dell Optiplex 3050 Micro. It's small, silent, doesn't consume a
 lot of power, and it's surprisingly powerful for the price. They can be found
-on eBay for ~£100. My model packs an i5 CPU, 16GB of RAM, and a 512GB SSD
+on eBay for ~£100. My model packs an i5 CPU, 16GB of RAM, and a 128GB SSD
 
 ## The setup
 
