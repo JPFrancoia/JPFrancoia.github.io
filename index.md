@@ -22,24 +22,30 @@ In <b>2018</b>, I decided to leave academia to join <a
 href="https://www.okra.ai/">Okra Technologies</a>, a dynamic healthcare
 start-up, as a data engineer. There, I built analytics engines for healthcare
 companies. My main responsibilities were the development of backend services
-and the development of Okra's data lake.
+and the development of Okra's data lake. <span style="color: #C6C6C6;">In 2023,
+Okra was acquired by Envision Pharma.</span>
 
 </p>
 
 <p align="justify">
 
 In <b>2021</b>, I joined <a href="https://www.babylonhealth.com/en-gb">Babylon
-Health</a> as a Software Engineer. I'm ensuring the high availability and
-quality of medical data to improve the output of Babylon's AI models. I'm
+Health</a> as a Software Engineer. I was ensuring the high availability and
+quality of medical data to improve the output of Babylon's AI models. I was
 also working on a set of microservices to validate the safety of these
-models. Once these models are considered safe - any healthcare environment
-is extremely regulated! - I deploy these models in production, where they
-will help improve the health of our patients.<br/>
-More recently, I joined the <b>Site Reliability Engineering</b> (SRE) team, as a
-senior software engineer.  My responsibilities range from being on-call 24h a
-day to respond to incidents to maintaining Babylon's infrastructure. I also
-help developers scale their applications and make sure they work reliably
-in production.
+models. Once these models were considered safe - any healthcare environment
+is extremely regulated! - I deployed these models into production, where they
+would help improve the health of our patients.<br/>
+
+</p>
+
+<p align="justify">
+
+In <b>2022</b>, I joined Babylon's <b>Site Reliability Engineering</b>
+(SRE) team, as a senior software engineer. My responsibilities ranged
+from being on-call 24/7 to respond to incidents, to maintaining Babylon's
+infrastructure. I also helped developers scale their applications and make
+sure they worked reliably in production.
 
 </p>
 
