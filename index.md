@@ -6,6 +6,66 @@ layout: default
 
 # About me
 
+<div class="timeline-container">
+    <article>
+      <dl>
+        <div class="cell">
+          <div class="cell-content">
+            <dt>2013</dt>
+            <dd>Start of PhD in chemistry</dd>
+            <dd>Montpellier, France</dd>
+          </div>
+        </div>
+        <div class="cell">
+          <div class="cell-content">
+            <dt>2016</dt>
+            <dd>End of PhD in chemistry</dd>
+          </div>
+        </div>
+        <div class="cell">
+          <div class="cell-content">
+            <dt>2017</dt>
+            <dd>Postdoctoral researcher</dd>
+            <dd>Glasgow, UK</dd>
+          </div>
+        </div>
+        <div class="cell">
+          <div class="cell-content">
+            <dt>2018</dt>
+            <dd>Data engineer</dd>
+            <dd>Okra Technologies</dd>
+            <dd>Leiden, Netherlands</dd>
+          </div>
+        </div>
+        <div class="cell">
+          <div class="cell-content">
+            <dt>2021</dt>
+            <dd>Software engineer</dd>
+            <dd>Babylon Health</dd>
+            <dd>London, UK</dd>
+          </div>
+        </div>
+        <div class="cell">
+          <div class="cell-content">
+            <dt>2022</dt>
+            <dd>Senior SRE</dd>
+            <dd>Babylon Health</dd>
+            <dd>London, UK</dd>
+          </div>
+        </div>
+        <div class="cell">
+          <div class="cell-content">
+            <dt>2023</dt>
+            <dd>Lead software engineer</dd>
+            <dd>Virgin Media O2</dd>
+            <dd>London, UK</dd>
+          </div>
+        </div>
+      </dl>
+    </article>
+</div>
+
+
 <p align="justify">
 
 After obtaining my PhD in <b>2016</b>, I moved to Glasgow to join the group
@@ -53,9 +113,9 @@ sure they worked reliably in production.
 
 In <b>2023</b>, I left the healthcare field behind to join the Telco world:
 I joined <a href="https://news.virginmediao2.co.uk/">Virgin Media O2</a>. I'm
-still a software engineer, and I'm now leading a small team tasked with
-creating a "fault platform". This platform aims to detect and remediate
-faults on VMO2's network.
+still a software engineer, and I'm now leading a team tasked with creating
+a "fault platform". This platform aims to detect and remediate faults on
+VMO2's network.
 
 </p>
 
