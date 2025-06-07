@@ -132,9 +132,9 @@ VMO2's network.
 
 
 <span style="color: #C6C6C6;">
-**NOTE**: These stats are purely for fun, and are not meant to be taken too
-seriously. They may or may not include contributions to my employer's codebases,
-depending on the year or if they used Github.
+**NOTE**: These stats are not meant to be taken too seriously. They may or
+may not include contributions to my employer's codebases, depending on the
+year or if they used Github.
 </span>
 
 # Selected Publications
