@@ -32,20 +32,27 @@ of Google Reader a few years ago until Google decided to shut it down.
 
 ## What do I host?
 
-- [Tiny Tiny RSS](https://tt-rss.org/): I use it to read RSS feeds. This
+- [Tiny Tiny RSS](https://tt-rss.org/): to read and track RSS feeds. This
 is a very critical software to me, that's how I keep up with the news. This
 is what replaced Google Reader for me.
-- [Ghostfolio](https://ghostfol.io/en/start): I use it to track my
+- [Ghostfolio](https://ghostfol.io/en/start): to track my
   investments and my pension (I donated to the project as it's a critical tool for me).
-- [Home Assistant](https://www.home-assistant.io/): I use it to automate
+- [Home Assistant](https://www.home-assistant.io/): to automate
   various things in my home. I have a few smart plugs, a smart thermostat,
   smart light bulbs, smart valves, and a few other things. I also use it
   to monitor the temperature and humidity in my home.
-- [Zulip](https://zulip.com/): I use it to communicate with friends when we
+- [Zulip](https://zulip.com/): to communicate with friends when we
     work on a project together. It's basically the equivalent of Slack, but
     cheaper and open-source. I'm in control of all the data (messages and
     files). The same features with Slack would cost me around £7 per user per
     month (that's a minimum of £14 per month to talk to one friend).
+- [Wakapi](https://wakapi.dev/): to track my coding activities. I can see the
+  time spent on each project, with each language, etc. It's a self-hosted
+  alternative to [WakaTime](https://wakatime.com/).
+- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats):
+  it's a small service that generates statistics for my GitHub profile.
+- [Signoz](https://signoz.io/): to monitor my services (think traces, logs,
+  metrics)
 - Various home-made services: backends and frontends for various projects
   I'm working on.
 
@@ -165,7 +172,7 @@ structure. For example, for my home assistant deployment, I use the following:
 ```
 
 
-### The dirty truth about a self-hosted setup
+### Node affinity
 
 For a self-hosted setup, you need to be prepared to deal with a few things:
 - volumes, i.e: where you store your persistent data
@@ -178,11 +185,12 @@ this node doesn't have sufficient resources.
 
 In my case for example, I run several database services. These services
 require persistent storage. Since this data is somewhat important, I want
-to make sure it lives on the NAS, since the NAS has a RAID setup. This means
-that I need to run my database services on the NAS. All my database pods are
-then deployed on the master node (the NAS). This is not ideal, but I haven't
-noticed any performance issues so far. Some solutions to this problem exist,
-like [Ceph](https://ceph.io), but I haven't had the time to set it up yet.
+to make sure it lives on the NAS, since the NAS has a RAID setup. This
+means that I need to run my database services on the NAS. All my database
+pods are then deployed on the master node (the NAS). This is not ideal,
+but I haven't noticed any performance issues so far. Some solutions to
+this problem exist, like [Longhorn](https://longhorn.io/), but I haven't
+had the time to set it up yet.
 
 I also have a [Con Bee II](https://phoscon.de/en/conbee2) Zigbee USB stick
 plugged into the NAS. I use it to control my Zigbee devices through Home
@@ -234,6 +242,8 @@ spec:
           value: Europe/London
 ```
 
+I also use [Descheduler](https://github.com/kubernetes-sigs/descheduler) to
+regularly rebalance the pods across the nodes.
 
 ## Docker registry
 
