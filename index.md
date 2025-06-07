@@ -78,12 +78,11 @@ reactors.
 
 <p align="justify">
 
-In <b>2018</b>, I decided to leave academia to join <a
-href="https://www.okra.ai/">Okra Technologies</a>, a dynamic healthcare
-start-up, as a data engineer. There, I built analytics engines for healthcare
-companies. My main responsibilities were the development of backend services
-and the development of Okra's data lake. <span style="color: #C6C6C6;">In 2023,
-Okra was acquired by Envision Pharma.</span>
+In <b>2018</b>, I decided to leave academia to join <a href="https://www.okra.ai/">Okra Technologies</a>,
+a dynamic healthcare start-up, as a data engineer. There, I built analytics
+engines for healthcare companies. My main responsibilities were the
+development of backend services and the development of Okra's data lake. In
+2023, Okra was acquired by Envision Pharma.
 
 </p>
 
@@ -91,11 +90,11 @@ Okra was acquired by Envision Pharma.</span>
 
 In <b>2021</b>, I joined <a href="https://www.babylonhealth.com/en-gb">Babylon
 Health</a> as a Software Engineer. I was ensuring the high availability and
-quality of medical data to improve the output of Babylon's AI models. I was
-also working on a set of microservices to validate the safety of these
-models. Once these models were considered safe - any healthcare environment
-is extremely regulated! - I deployed these models into production, where they
-would help improve the health of our patients.<br/>
+quality of medical data to improve Babylon's AI models. I was also working
+on a set of microservices to validate the safety of these models. Once
+these models were considered safe - any healthcare environment is extremely
+regulated! - I deployed these models into production, where they would help
+improve the health of our patients.<br/>
 
 </p>
 
@@ -114,11 +113,29 @@ sure they worked reliably in production.
 In <b>2023</b>, I left the healthcare field behind to join the Telco world:
 I joined <a href="https://news.virginmediao2.co.uk/">Virgin Media O2</a>. I'm
 still a software engineer, and I'm now leading a team tasked with creating
-a "fault platform". This platform aims to detect and remediate faults on
+a "faults platform". This platform aims to detect and remediate faults on
 VMO2's network.
 
 </p>
 
+# Statistics
+
+
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <a href="https://github.com/JPFrancoia">
+    <img height=250 src="https://jpfrancoia.com/grs?username=JPFrancoia&hide_rank=true&show_icons=true" />
+  </a>
+  <a href="https://github.com/JPFrancoia">
+    <img height=250 src="https://jpfrancoia.com/grs/top-langs?username=JPFrancoia&layout=compact&hide=jupyter%20notebook&langs_count=8" />
+  </a>
+</div>
+
+
+<span style="color: #C6C6C6;">
+**NOTE**: These stats are purely for fun, and are not meant to be taken too
+seriously. They may or may not include contributions to my employer's codebases,
+depending on the year or if they used Github.
+</span>
 
 # Selected Publications
 

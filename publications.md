@@ -4,6 +4,8 @@ layout: default
 
 ---
 
+**These publications date from the time when I was in academia, from 2013 to 2018.**
+
 # Publications
 
 - [Automatic Generation of 3D Printed Reactionware for Chemical Synthesis
