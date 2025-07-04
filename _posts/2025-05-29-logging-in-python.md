@@ -2,7 +2,6 @@
 layout: posts
 title:  "Observability: logging in Python"
 image: logging_python.png
-draft: true
 
 excerpt: "Let's explore how to setup logging in Python. We'll go through the
 configurations of a colored handler for local development, and of a structured
