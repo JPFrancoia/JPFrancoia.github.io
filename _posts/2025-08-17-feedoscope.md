@@ -332,7 +332,7 @@ at the top of the list.
 Unfortunately, I don't have labelled data when it comes to time
 sensitivity. If I had, I could theoretically train an encoder model on it. I
 could use the same approach as before, but with five classes instead of two.
-For this particular problem, I used an *encoder-only* model: [Ministral 8B
+For this particular problem, I used an *decoder-only* model: [Ministral 8B
 Instruct](https://huggingface.co/mistralai/Ministral-8B-Instruct-2410),
 or more precisely, [a quantized version of Ministral 8B
 instruct](https://huggingface.co/bartowski/Ministral-8B-Instruct-2410-HF-GGUF-TEST).
