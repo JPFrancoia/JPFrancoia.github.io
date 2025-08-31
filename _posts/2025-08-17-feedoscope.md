@@ -85,7 +85,8 @@ The architecture for this project is pretty straightforward. I will deploy two
 new pods onto my Kubernetes cluster:
 - A **learning pod**: this pod will be responsible for training the relevance
   model (a binary classifier). It will access the database to get the
-  articles and their classifiction (liked/disliked), and fine-tune a ModernBERT model on this data
+  articles and their classification (liked/disliked), and fine-tune a
+  ModernBERT model on this data
 - An **inference pod**: this pod will be responsible for scoring the
   articles. It will access the database to get the articles and use two
   models to score them:
@@ -171,7 +172,7 @@ usually revolves around somehow corrupting a given sentence (for instance,
 by masking random words in it) and asking the model to find or reconstruct
 the initial sentence. By contrast, decoder models are trained only of the
 previous words in a sentence, and are asked to predict the next word. These
-days, modern LLMs (like the ones used by ChatGPT) are *encoder-only* models.
+days, modern LLMs (like the ones used by ChatGPT) are *decoder-only* models.
 
 Encoder and decoder models each have their use, but encoder models tend to
 be much smaller than decoder models. That makes them cheaper and faster to
@@ -440,8 +441,8 @@ I have two models:
 
 As described in the "Exponential decay" section, I can use the relevance
 score, the publication date and the time sensitivity score to continuously
-score rank my RSS articles. Over time, older articles will be superseded
-by more fresh/relevant articles.
+score my RSS articles. Over time, older articles will be superseded by more
+fresh/relevant articles.
 
 The final inference script is
 [here](https://github.com/JPFrancoia/Feedoscope/blob/master/feedoscope/main.py).
