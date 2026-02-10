@@ -168,4 +168,4 @@ J.-P. Francoia and L. Vial, *J. Chem. Educ*, 2016, **93**, 1137 - <font color="#
 
 <br/>
 
-You can access the full list of my publications [here]({{ site.url }}/publications)
+You can access the full list of my publications [here]({{ '/publications' | relative_url }})
