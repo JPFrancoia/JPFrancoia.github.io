@@ -1,7 +1,7 @@
 ---
 layout: posts
 title:  "Feedoscope update: migrating to Miniflux and distilling urgency"
-image: feedoscope.png
+image: feedoscope_update.png
 
 excerpt: "I migrated Feedoscope from Tiny Tiny RSS to Miniflux, simplified the
 time sensitivity system from a 1-5 scale to a binary urgency score, and
@@ -10,6 +10,10 @@ distilled the knowledge of a decoder model into a small encoder model."
 ---
 
 # Feedoscope update: migrating to Miniflux and distilling urgency
+
+<p align="center">
+  <img width="1000" src="{{ site.baseurl }}/images/feedoscope_update/architecture.png">
+</p>
 
 ## TL;DR
 
@@ -208,6 +212,10 @@ article. For comparison, the Ministral decoder model takes about 1.2s per
 article. That's a ~40x speedup.
 
 ## How it all fits together
+
+<p align="center">
+  <img width="1000" src="{{ site.baseurl }}/images/feedoscope_update/architecture.png">
+</p>
 
 The full pipeline runs like this:
 
